@@ -1,4 +1,4 @@
-![Project Screenshot](tennis1.png)
+![Project Screenshot](output_images/tennis1_all.png)
 
 # **Tenis Analysis**
 
@@ -19,22 +19,22 @@ While running on a GPU takes 32 seconds to go through the two images, then image
 Performance can also be improved by running the model locally with a GPU rather than on Roboflows API.
 
 ### Raw image
-![Project Screenshot](tennis1.png)
+![Project Screenshot](input_images/tennis1.png)
 
 ### Player and ball identification
-![Project Screenshot](tennis1_player_ball_bb.png)
+![Project Screenshot](output_images/tennis1_player_ball_bb.png)
 
 ### Shot identification
-![Project Screenshot](tennis1_shot_bb.png)
+![Project Screenshot](output_images/tennis1_shot_bb.png)
 
 ### Pose identification
-![Project Screenshot](tennis1_pose_kp.png)
+![Project Screenshot](output_images/tennis1_pose_kp.png)
 
 ### Court keypoints identification
-![Project Screenshot](tennis1_court_kp.png)
+![Project Screenshot](output_images/tennis1_court_kp.png)
 
 ### Output image
-![Project Screenshot](tennis1_all.png)
+![Project Screenshot](output_images/tennis1_all.png)
 
 ## Video Analysis (WIP)
 
