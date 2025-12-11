@@ -1,0 +1,6862 @@
+{
+    "detections": [
+        {
+            "frame_id": 0,
+            "x_min": 1043.0,
+            "y_min": 596.0,
+            "x_max": 1167.0,
+            "y_max": 847.0,
+            "class_id": "player",
+            "confidence": 0.769692063331604
+        },
+        {
+            "frame_id": 0,
+            "x_min": 724.0,
+            "y_min": 176.0,
+            "x_max": 783.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.6926811933517456
+        },
+        {
+            "frame_id": 0,
+            "x_min": 1060.0,
+            "y_min": 361.0,
+            "x_max": 1080.0,
+            "y_max": 375.0,
+            "class_id": "ball",
+            "confidence": 0.5971257090568542
+        },
+        {
+            "frame_id": 1,
+            "x_min": 1044.0,
+            "y_min": 594.0,
+            "x_max": 1166.0,
+            "y_max": 847.0,
+            "class_id": "player",
+            "confidence": 0.7299695014953613
+        },
+        {
+            "frame_id": 1,
+            "x_min": 724.0,
+            "y_min": 178.0,
+            "x_max": 781.0,
+            "y_max": 281.0,
+            "class_id": "player",
+            "confidence": 0.7034668922424316
+        },
+        {
+            "frame_id": 1,
+            "x_min": 1058.0,
+            "y_min": 362.0,
+            "x_max": 1077.0,
+            "y_max": 377.0,
+            "class_id": "ball",
+            "confidence": 0.6054227352142334
+        },
+        {
+            "frame_id": 2,
+            "x_min": 723.0,
+            "y_min": 179.0,
+            "x_max": 780.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.7041478157043457
+        },
+        {
+            "frame_id": 2,
+            "x_min": 1056.0,
+            "y_min": 366.0,
+            "x_max": 1076.0,
+            "y_max": 379.0,
+            "class_id": "ball",
+            "confidence": 0.6635367274284363
+        },
+        {
+            "frame_id": 2,
+            "x_min": 1040.0,
+            "y_min": 599.0,
+            "x_max": 1165.0,
+            "y_max": 864.0,
+            "class_id": "player",
+            "confidence": 0.6192801594734192
+        },
+        {
+            "frame_id": 3,
+            "x_min": 722.0,
+            "y_min": 178.0,
+            "x_max": 780.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.6923194527626038
+        },
+        {
+            "frame_id": 3,
+            "x_min": 1053.0,
+            "y_min": 369.0,
+            "x_max": 1074.0,
+            "y_max": 382.0,
+            "class_id": "ball",
+            "confidence": 0.6468033790588379
+        },
+        {
+            "frame_id": 3,
+            "x_min": 1024.0,
+            "y_min": 597.0,
+            "x_max": 1165.0,
+            "y_max": 864.0,
+            "class_id": "player",
+            "confidence": 0.627476155757904
+        },
+        {
+            "frame_id": 4,
+            "x_min": 1014.0,
+            "y_min": 586.0,
+            "x_max": 1163.0,
+            "y_max": 856.0,
+            "class_id": "player",
+            "confidence": 0.7533680200576782
+        },
+        {
+            "frame_id": 4,
+            "x_min": 721.0,
+            "y_min": 178.0,
+            "x_max": 779.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.6815469264984131
+        },
+        {
+            "frame_id": 4,
+            "x_min": 1051.0,
+            "y_min": 371.0,
+            "x_max": 1073.0,
+            "y_max": 386.0,
+            "class_id": "ball",
+            "confidence": 0.5148046612739563
+        },
+        {
+            "frame_id": 5,
+            "x_min": 1009.0,
+            "y_min": 582.0,
+            "x_max": 1162.0,
+            "y_max": 857.0,
+            "class_id": "player",
+            "confidence": 0.7177406549453735
+        },
+        {
+            "frame_id": 5,
+            "x_min": 720.0,
+            "y_min": 177.0,
+            "x_max": 778.0,
+            "y_max": 285.0,
+            "class_id": "player",
+            "confidence": 0.6792399287223816
+        },
+        {
+            "frame_id": 5,
+            "x_min": 1049.0,
+            "y_min": 376.0,
+            "x_max": 1070.0,
+            "y_max": 390.0,
+            "class_id": "ball",
+            "confidence": 0.4746935963630676
+        },
+        {
+            "frame_id": 6,
+            "x_min": 999.0,
+            "y_min": 577.0,
+            "x_max": 1156.0,
+            "y_max": 859.0,
+            "class_id": "player",
+            "confidence": 0.7645658254623413
+        },
+        {
+            "frame_id": 6,
+            "x_min": 720.0,
+            "y_min": 174.0,
+            "x_max": 777.0,
+            "y_max": 285.0,
+            "class_id": "player",
+            "confidence": 0.7092929482460022
+        },
+        {
+            "frame_id": 7,
+            "x_min": 995.0,
+            "y_min": 563.0,
+            "x_max": 1153.0,
+            "y_max": 835.0,
+            "class_id": "player",
+            "confidence": 0.7724069356918335
+        },
+        {
+            "frame_id": 7,
+            "x_min": 718.0,
+            "y_min": 173.0,
+            "x_max": 776.0,
+            "y_max": 286.0,
+            "class_id": "player",
+            "confidence": 0.7027185559272766
+        },
+        {
+            "frame_id": 8,
+            "x_min": 990.0,
+            "y_min": 567.0,
+            "x_max": 1153.0,
+            "y_max": 833.0,
+            "class_id": "player",
+            "confidence": 0.7951802015304565
+        },
+        {
+            "frame_id": 8,
+            "x_min": 717.0,
+            "y_min": 171.0,
+            "x_max": 775.0,
+            "y_max": 286.0,
+            "class_id": "player",
+            "confidence": 0.7041497826576233
+        },
+        {
+            "frame_id": 8,
+            "x_min": 1040.0,
+            "y_min": 392.0,
+            "x_max": 1061.0,
+            "y_max": 409.0,
+            "class_id": "ball",
+            "confidence": 0.5538736581802368
+        },
+        {
+            "frame_id": 9,
+            "x_min": 991.0,
+            "y_min": 580.0,
+            "x_max": 1150.0,
+            "y_max": 842.0,
+            "class_id": "player",
+            "confidence": 0.8582843542098999
+        },
+        {
+            "frame_id": 9,
+            "x_min": 716.0,
+            "y_min": 169.0,
+            "x_max": 774.0,
+            "y_max": 286.0,
+            "class_id": "player",
+            "confidence": 0.7325339317321777
+        },
+        {
+            "frame_id": 9,
+            "x_min": 1040.0,
+            "y_min": 397.0,
+            "x_max": 1060.0,
+            "y_max": 415.0,
+            "class_id": "ball",
+            "confidence": 0.5040863156318665
+        },
+        {
+            "frame_id": 10,
+            "x_min": 997.0,
+            "y_min": 596.0,
+            "x_max": 1150.0,
+            "y_max": 851.0,
+            "class_id": "player",
+            "confidence": 0.8644459843635559
+        },
+        {
+            "frame_id": 10,
+            "x_min": 716.0,
+            "y_min": 169.0,
+            "x_max": 773.0,
+            "y_max": 286.0,
+            "class_id": "player",
+            "confidence": 0.7317899465560913
+        },
+        {
+            "frame_id": 10,
+            "x_min": 1039.0,
+            "y_min": 404.0,
+            "x_max": 1059.0,
+            "y_max": 420.0,
+            "class_id": "ball",
+            "confidence": 0.6572585701942444
+        },
+        {
+            "frame_id": 11,
+            "x_min": 1005.0,
+            "y_min": 616.0,
+            "x_max": 1150.0,
+            "y_max": 859.0,
+            "class_id": "player",
+            "confidence": 0.8229458332061768
+        },
+        {
+            "frame_id": 11,
+            "x_min": 715.0,
+            "y_min": 168.0,
+            "x_max": 772.0,
+            "y_max": 287.0,
+            "class_id": "player",
+            "confidence": 0.7362432479858398
+        },
+        {
+            "frame_id": 11,
+            "x_min": 1037.0,
+            "y_min": 410.0,
+            "x_max": 1059.0,
+            "y_max": 428.0,
+            "class_id": "ball",
+            "confidence": 0.5786405205726624
+        },
+        {
+            "frame_id": 12,
+            "x_min": 1020.0,
+            "y_min": 611.0,
+            "x_max": 1149.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.8354668617248535
+        },
+        {
+            "frame_id": 12,
+            "x_min": 717.0,
+            "y_min": 166.0,
+            "x_max": 773.0,
+            "y_max": 287.0,
+            "class_id": "player",
+            "confidence": 0.7334083914756775
+        },
+        {
+            "frame_id": 12,
+            "x_min": 1031.0,
+            "y_min": 416.0,
+            "x_max": 1056.0,
+            "y_max": 436.0,
+            "class_id": "ball",
+            "confidence": 0.6776698231697083
+        },
+        {
+            "frame_id": 13,
+            "x_min": 1026.0,
+            "y_min": 605.0,
+            "x_max": 1156.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8045432567596436
+        },
+        {
+            "frame_id": 13,
+            "x_min": 716.0,
+            "y_min": 166.0,
+            "x_max": 775.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.7250345945358276
+        },
+        {
+            "frame_id": 13,
+            "x_min": 1029.0,
+            "y_min": 423.0,
+            "x_max": 1055.0,
+            "y_max": 447.0,
+            "class_id": "ball",
+            "confidence": 0.5979981422424316
+        },
+        {
+            "frame_id": 14,
+            "x_min": 716.0,
+            "y_min": 165.0,
+            "x_max": 775.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.7233290076255798
+        },
+        {
+            "frame_id": 14,
+            "x_min": 1028.0,
+            "y_min": 431.0,
+            "x_max": 1053.0,
+            "y_max": 452.0,
+            "class_id": "ball",
+            "confidence": 0.7182366847991943
+        },
+        {
+            "frame_id": 14,
+            "x_min": 1017.0,
+            "y_min": 584.0,
+            "x_max": 1163.0,
+            "y_max": 845.0,
+            "class_id": "player",
+            "confidence": 0.4867570400238037
+        },
+        {
+            "frame_id": 15,
+            "x_min": 715.0,
+            "y_min": 165.0,
+            "x_max": 775.0,
+            "y_max": 287.0,
+            "class_id": "player",
+            "confidence": 0.736855149269104
+        },
+        {
+            "frame_id": 15,
+            "x_min": 1024.0,
+            "y_min": 441.0,
+            "x_max": 1049.0,
+            "y_max": 462.0,
+            "class_id": "ball",
+            "confidence": 0.6865451335906982
+        },
+        {
+            "frame_id": 15,
+            "x_min": 1061.0,
+            "y_min": 605.0,
+            "x_max": 1166.0,
+            "y_max": 845.0,
+            "class_id": "player",
+            "confidence": 0.45196443796157837
+        },
+        {
+            "frame_id": 16,
+            "x_min": 716.0,
+            "y_min": 165.0,
+            "x_max": 776.0,
+            "y_max": 289.0,
+            "class_id": "player",
+            "confidence": 0.7393835186958313
+        },
+        {
+            "frame_id": 16,
+            "x_min": 1021.0,
+            "y_min": 452.0,
+            "x_max": 1051.0,
+            "y_max": 473.0,
+            "class_id": "ball",
+            "confidence": 0.6227127909660339
+        },
+        {
+            "frame_id": 17,
+            "x_min": 715.0,
+            "y_min": 165.0,
+            "x_max": 776.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.7428203821182251
+        },
+        {
+            "frame_id": 17,
+            "x_min": 1018.0,
+            "y_min": 460.0,
+            "x_max": 1047.0,
+            "y_max": 483.0,
+            "class_id": "ball",
+            "confidence": 0.6259538531303406
+        },
+        {
+            "frame_id": 18,
+            "x_min": 716.0,
+            "y_min": 165.0,
+            "x_max": 777.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7464308142662048
+        },
+        {
+            "frame_id": 18,
+            "x_min": 1041.0,
+            "y_min": 480.0,
+            "x_max": 1078.0,
+            "y_max": 506.0,
+            "class_id": "ball",
+            "confidence": 0.6540560126304626
+        },
+        {
+            "frame_id": 18,
+            "x_min": 1006.0,
+            "y_min": 452.0,
+            "x_max": 1038.0,
+            "y_max": 475.0,
+            "class_id": "ball",
+            "confidence": 0.5873434543609619
+        },
+        {
+            "frame_id": 19,
+            "x_min": 715.0,
+            "y_min": 166.0,
+            "x_max": 777.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7552065849304199
+        },
+        {
+            "frame_id": 19,
+            "x_min": 985.0,
+            "y_min": 433.0,
+            "x_max": 1015.0,
+            "y_max": 458.0,
+            "class_id": "ball",
+            "confidence": 0.649097204208374
+        },
+        {
+            "frame_id": 20,
+            "x_min": 714.0,
+            "y_min": 164.0,
+            "x_max": 779.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7683835625648499
+        },
+        {
+            "frame_id": 20,
+            "x_min": 975.0,
+            "y_min": 425.0,
+            "x_max": 1005.0,
+            "y_max": 447.0,
+            "class_id": "ball",
+            "confidence": 0.627333402633667
+        },
+        {
+            "frame_id": 21,
+            "x_min": 714.0,
+            "y_min": 166.0,
+            "x_max": 781.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.779917299747467
+        },
+        {
+            "frame_id": 22,
+            "x_min": 713.0,
+            "y_min": 169.0,
+            "x_max": 782.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7835680842399597
+        },
+        {
+            "frame_id": 22,
+            "x_min": 1019.0,
+            "y_min": 577.0,
+            "x_max": 1190.0,
+            "y_max": 821.0,
+            "class_id": "player",
+            "confidence": 0.6009968519210815
+        },
+        {
+            "frame_id": 23,
+            "x_min": 1021.0,
+            "y_min": 590.0,
+            "x_max": 1193.0,
+            "y_max": 819.0,
+            "class_id": "player",
+            "confidence": 0.7991254925727844
+        },
+        {
+            "frame_id": 23,
+            "x_min": 710.0,
+            "y_min": 170.0,
+            "x_max": 785.0,
+            "y_max": 293.0,
+            "class_id": "player",
+            "confidence": 0.7947601079940796
+        },
+        {
+            "frame_id": 23,
+            "x_min": 931.0,
+            "y_min": 396.0,
+            "x_max": 958.0,
+            "y_max": 413.0,
+            "class_id": "ball",
+            "confidence": 0.5065561532974243
+        },
+        {
+            "frame_id": 24,
+            "x_min": 1018.0,
+            "y_min": 597.0,
+            "x_max": 1196.0,
+            "y_max": 819.0,
+            "class_id": "player",
+            "confidence": 0.8729180693626404
+        },
+        {
+            "frame_id": 24,
+            "x_min": 710.0,
+            "y_min": 172.0,
+            "x_max": 786.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.8044096827507019
+        },
+        {
+            "frame_id": 24,
+            "x_min": 919.0,
+            "y_min": 390.0,
+            "x_max": 945.0,
+            "y_max": 407.0,
+            "class_id": "ball",
+            "confidence": 0.5215595364570618
+        },
+        {
+            "frame_id": 25,
+            "x_min": 1016.0,
+            "y_min": 597.0,
+            "x_max": 1197.0,
+            "y_max": 823.0,
+            "class_id": "player",
+            "confidence": 0.8810099959373474
+        },
+        {
+            "frame_id": 25,
+            "x_min": 708.0,
+            "y_min": 175.0,
+            "x_max": 787.0,
+            "y_max": 295.0,
+            "class_id": "player",
+            "confidence": 0.8022894263267517
+        },
+        {
+            "frame_id": 26,
+            "x_min": 1015.0,
+            "y_min": 599.0,
+            "x_max": 1198.0,
+            "y_max": 833.0,
+            "class_id": "player",
+            "confidence": 0.8870018720626831
+        },
+        {
+            "frame_id": 26,
+            "x_min": 708.0,
+            "y_min": 177.0,
+            "x_max": 788.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.7971349358558655
+        },
+        {
+            "frame_id": 26,
+            "x_min": 897.0,
+            "y_min": 380.0,
+            "x_max": 922.0,
+            "y_max": 395.0,
+            "class_id": "ball",
+            "confidence": 0.5517376661300659
+        },
+        {
+            "frame_id": 27,
+            "x_min": 1015.0,
+            "y_min": 601.0,
+            "x_max": 1194.0,
+            "y_max": 838.0,
+            "class_id": "player",
+            "confidence": 0.8887639045715332
+        },
+        {
+            "frame_id": 27,
+            "x_min": 707.0,
+            "y_min": 181.0,
+            "x_max": 789.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.799167275428772
+        },
+        {
+            "frame_id": 27,
+            "x_min": 887.0,
+            "y_min": 376.0,
+            "x_max": 911.0,
+            "y_max": 390.0,
+            "class_id": "ball",
+            "confidence": 0.6229690909385681
+        },
+        {
+            "frame_id": 28,
+            "x_min": 1008.0,
+            "y_min": 604.0,
+            "x_max": 1191.0,
+            "y_max": 838.0,
+            "class_id": "player",
+            "confidence": 0.8955645561218262
+        },
+        {
+            "frame_id": 28,
+            "x_min": 707.0,
+            "y_min": 183.0,
+            "x_max": 787.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8072807192802429
+        },
+        {
+            "frame_id": 28,
+            "x_min": 877.0,
+            "y_min": 374.0,
+            "x_max": 902.0,
+            "y_max": 387.0,
+            "class_id": "ball",
+            "confidence": 0.4044949412345886
+        },
+        {
+            "frame_id": 29,
+            "x_min": 995.0,
+            "y_min": 608.0,
+            "x_max": 1187.0,
+            "y_max": 840.0,
+            "class_id": "player",
+            "confidence": 0.9031804203987122
+        },
+        {
+            "frame_id": 29,
+            "x_min": 707.0,
+            "y_min": 183.0,
+            "x_max": 788.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8069527745246887
+        },
+        {
+            "frame_id": 30,
+            "x_min": 979.0,
+            "y_min": 611.0,
+            "x_max": 1177.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8918604850769043
+        },
+        {
+            "frame_id": 30,
+            "x_min": 707.0,
+            "y_min": 183.0,
+            "x_max": 789.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.7997120022773743
+        },
+        {
+            "frame_id": 31,
+            "x_min": 979.0,
+            "y_min": 616.0,
+            "x_max": 1168.0,
+            "y_max": 842.0,
+            "class_id": "player",
+            "confidence": 0.8883646726608276
+        },
+        {
+            "frame_id": 31,
+            "x_min": 708.0,
+            "y_min": 184.0,
+            "x_max": 790.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.7985175848007202
+        },
+        {
+            "frame_id": 31,
+            "x_min": 848.0,
+            "y_min": 369.0,
+            "x_max": 870.0,
+            "y_max": 382.0,
+            "class_id": "ball",
+            "confidence": 0.6263817548751831
+        },
+        {
+            "frame_id": 32,
+            "x_min": 977.0,
+            "y_min": 620.0,
+            "x_max": 1159.0,
+            "y_max": 842.0,
+            "class_id": "player",
+            "confidence": 0.8861650228500366
+        },
+        {
+            "frame_id": 32,
+            "x_min": 708.0,
+            "y_min": 183.0,
+            "x_max": 790.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.7997530102729797
+        },
+        {
+            "frame_id": 32,
+            "x_min": 839.0,
+            "y_min": 367.0,
+            "x_max": 862.0,
+            "y_max": 380.0,
+            "class_id": "ball",
+            "confidence": 0.617933988571167
+        },
+        {
+            "frame_id": 33,
+            "x_min": 975.0,
+            "y_min": 623.0,
+            "x_max": 1150.0,
+            "y_max": 841.0,
+            "class_id": "player",
+            "confidence": 0.8803606629371643
+        },
+        {
+            "frame_id": 33,
+            "x_min": 708.0,
+            "y_min": 184.0,
+            "x_max": 790.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8030233383178711
+        },
+        {
+            "frame_id": 33,
+            "x_min": 829.0,
+            "y_min": 368.0,
+            "x_max": 855.0,
+            "y_max": 380.0,
+            "class_id": "ball",
+            "confidence": 0.41812825202941895
+        },
+        {
+            "frame_id": 34,
+            "x_min": 971.0,
+            "y_min": 623.0,
+            "x_max": 1146.0,
+            "y_max": 840.0,
+            "class_id": "player",
+            "confidence": 0.883133053779602
+        },
+        {
+            "frame_id": 34,
+            "x_min": 709.0,
+            "y_min": 183.0,
+            "x_max": 790.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.7963793873786926
+        },
+        {
+            "frame_id": 34,
+            "x_min": 822.0,
+            "y_min": 369.0,
+            "x_max": 844.0,
+            "y_max": 381.0,
+            "class_id": "ball",
+            "confidence": 0.6230568289756775
+        },
+        {
+            "frame_id": 35,
+            "x_min": 968.0,
+            "y_min": 624.0,
+            "x_max": 1145.0,
+            "y_max": 842.0,
+            "class_id": "player",
+            "confidence": 0.8832142353057861
+        },
+        {
+            "frame_id": 35,
+            "x_min": 709.0,
+            "y_min": 182.0,
+            "x_max": 790.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.7992968559265137
+        },
+        {
+            "frame_id": 36,
+            "x_min": 963.0,
+            "y_min": 624.0,
+            "x_max": 1141.0,
+            "y_max": 842.0,
+            "class_id": "player",
+            "confidence": 0.8976373672485352
+        },
+        {
+            "frame_id": 36,
+            "x_min": 709.0,
+            "y_min": 181.0,
+            "x_max": 790.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8074058890342712
+        },
+        {
+            "frame_id": 37,
+            "x_min": 955.0,
+            "y_min": 623.0,
+            "x_max": 1131.0,
+            "y_max": 841.0,
+            "class_id": "player",
+            "confidence": 0.8942553400993347
+        },
+        {
+            "frame_id": 37,
+            "x_min": 708.0,
+            "y_min": 183.0,
+            "x_max": 791.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8189822435379028
+        },
+        {
+            "frame_id": 37,
+            "x_min": 795.0,
+            "y_min": 371.0,
+            "x_max": 821.0,
+            "y_max": 387.0,
+            "class_id": "ball",
+            "confidence": 0.4247736930847168
+        },
+        {
+            "frame_id": 38,
+            "x_min": 949.0,
+            "y_min": 623.0,
+            "x_max": 1125.0,
+            "y_max": 841.0,
+            "class_id": "player",
+            "confidence": 0.8687492609024048
+        },
+        {
+            "frame_id": 38,
+            "x_min": 706.0,
+            "y_min": 181.0,
+            "x_max": 791.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8295174241065979
+        },
+        {
+            "frame_id": 38,
+            "x_min": 790.0,
+            "y_min": 369.0,
+            "x_max": 814.0,
+            "y_max": 386.0,
+            "class_id": "ball",
+            "confidence": 0.47015511989593506
+        },
+        {
+            "frame_id": 39,
+            "x_min": 940.0,
+            "y_min": 619.0,
+            "x_max": 1126.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8776737451553345
+        },
+        {
+            "frame_id": 39,
+            "x_min": 709.0,
+            "y_min": 182.0,
+            "x_max": 790.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8271567225456238
+        },
+        {
+            "frame_id": 40,
+            "x_min": 934.0,
+            "y_min": 618.0,
+            "x_max": 1126.0,
+            "y_max": 840.0,
+            "class_id": "player",
+            "confidence": 0.8794938325881958
+        },
+        {
+            "frame_id": 40,
+            "x_min": 713.0,
+            "y_min": 180.0,
+            "x_max": 791.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8479830026626587
+        },
+        {
+            "frame_id": 41,
+            "x_min": 924.0,
+            "y_min": 617.0,
+            "x_max": 1127.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8929013609886169
+        },
+        {
+            "frame_id": 41,
+            "x_min": 716.0,
+            "y_min": 178.0,
+            "x_max": 792.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8408036231994629
+        },
+        {
+            "frame_id": 42,
+            "x_min": 919.0,
+            "y_min": 615.0,
+            "x_max": 1127.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8930181264877319
+        },
+        {
+            "frame_id": 42,
+            "x_min": 718.0,
+            "y_min": 178.0,
+            "x_max": 793.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.8022764325141907
+        },
+        {
+            "frame_id": 43,
+            "x_min": 921.0,
+            "y_min": 613.0,
+            "x_max": 1122.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.888720691204071
+        },
+        {
+            "frame_id": 43,
+            "x_min": 717.0,
+            "y_min": 175.0,
+            "x_max": 792.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.701911449432373
+        },
+        {
+            "frame_id": 44,
+            "x_min": 926.0,
+            "y_min": 612.0,
+            "x_max": 1116.0,
+            "y_max": 838.0,
+            "class_id": "player",
+            "confidence": 0.8886083960533142
+        },
+        {
+            "frame_id": 44,
+            "x_min": 727.0,
+            "y_min": 175.0,
+            "x_max": 794.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.7210900187492371
+        },
+        {
+            "frame_id": 45,
+            "x_min": 930.0,
+            "y_min": 611.0,
+            "x_max": 1107.0,
+            "y_max": 837.0,
+            "class_id": "player",
+            "confidence": 0.8881179690361023
+        },
+        {
+            "frame_id": 45,
+            "x_min": 733.0,
+            "y_min": 175.0,
+            "x_max": 794.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.7327733635902405
+        },
+        {
+            "frame_id": 46,
+            "x_min": 932.0,
+            "y_min": 611.0,
+            "x_max": 1101.0,
+            "y_max": 837.0,
+            "class_id": "player",
+            "confidence": 0.884210467338562
+        },
+        {
+            "frame_id": 46,
+            "x_min": 736.0,
+            "y_min": 173.0,
+            "x_max": 795.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.7632790803909302
+        },
+        {
+            "frame_id": 47,
+            "x_min": 944.0,
+            "y_min": 612.0,
+            "x_max": 1097.0,
+            "y_max": 834.0,
+            "class_id": "player",
+            "confidence": 0.8734501004219055
+        },
+        {
+            "frame_id": 47,
+            "x_min": 735.0,
+            "y_min": 173.0,
+            "x_max": 795.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.7313042879104614
+        },
+        {
+            "frame_id": 48,
+            "x_min": 957.0,
+            "y_min": 613.0,
+            "x_max": 1094.0,
+            "y_max": 837.0,
+            "class_id": "player",
+            "confidence": 0.8595369458198547
+        },
+        {
+            "frame_id": 48,
+            "x_min": 735.0,
+            "y_min": 170.0,
+            "x_max": 798.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.724038302898407
+        },
+        {
+            "frame_id": 49,
+            "x_min": 962.0,
+            "y_min": 613.0,
+            "x_max": 1092.0,
+            "y_max": 831.0,
+            "class_id": "player",
+            "confidence": 0.8651135563850403
+        },
+        {
+            "frame_id": 49,
+            "x_min": 732.0,
+            "y_min": 170.0,
+            "x_max": 799.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.7220168113708496
+        },
+        {
+            "frame_id": 50,
+            "x_min": 959.0,
+            "y_min": 614.0,
+            "x_max": 1089.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8689595460891724
+        },
+        {
+            "frame_id": 50,
+            "x_min": 728.0,
+            "y_min": 169.0,
+            "x_max": 803.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.7588359117507935
+        },
+        {
+            "frame_id": 51,
+            "x_min": 953.0,
+            "y_min": 615.0,
+            "x_max": 1086.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8658475279808044
+        },
+        {
+            "frame_id": 51,
+            "x_min": 725.0,
+            "y_min": 169.0,
+            "x_max": 805.0,
+            "y_max": 295.0,
+            "class_id": "player",
+            "confidence": 0.775825023651123
+        },
+        {
+            "frame_id": 52,
+            "x_min": 943.0,
+            "y_min": 615.0,
+            "x_max": 1083.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8686612844467163
+        },
+        {
+            "frame_id": 52,
+            "x_min": 723.0,
+            "y_min": 168.0,
+            "x_max": 806.0,
+            "y_max": 294.0,
+            "class_id": "player",
+            "confidence": 0.7935770750045776
+        },
+        {
+            "frame_id": 53,
+            "x_min": 938.0,
+            "y_min": 615.0,
+            "x_max": 1082.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8723104000091553
+        },
+        {
+            "frame_id": 53,
+            "x_min": 720.0,
+            "y_min": 167.0,
+            "x_max": 807.0,
+            "y_max": 292.0,
+            "class_id": "player",
+            "confidence": 0.8131111264228821
+        },
+        {
+            "frame_id": 54,
+            "x_min": 937.0,
+            "y_min": 615.0,
+            "x_max": 1081.0,
+            "y_max": 840.0,
+            "class_id": "player",
+            "confidence": 0.8721571564674377
+        },
+        {
+            "frame_id": 54,
+            "x_min": 722.0,
+            "y_min": 167.0,
+            "x_max": 808.0,
+            "y_max": 293.0,
+            "class_id": "player",
+            "confidence": 0.790134608745575
+        },
+        {
+            "frame_id": 55,
+            "x_min": 937.0,
+            "y_min": 614.0,
+            "x_max": 1080.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8710283041000366
+        },
+        {
+            "frame_id": 55,
+            "x_min": 724.0,
+            "y_min": 167.0,
+            "x_max": 808.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7582511305809021
+        },
+        {
+            "frame_id": 56,
+            "x_min": 934.0,
+            "y_min": 613.0,
+            "x_max": 1079.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.870578944683075
+        },
+        {
+            "frame_id": 56,
+            "x_min": 727.0,
+            "y_min": 166.0,
+            "x_max": 811.0,
+            "y_max": 293.0,
+            "class_id": "player",
+            "confidence": 0.7666389346122742
+        },
+        {
+            "frame_id": 57,
+            "x_min": 935.0,
+            "y_min": 611.0,
+            "x_max": 1077.0,
+            "y_max": 838.0,
+            "class_id": "player",
+            "confidence": 0.867247998714447
+        },
+        {
+            "frame_id": 57,
+            "x_min": 727.0,
+            "y_min": 164.0,
+            "x_max": 813.0,
+            "y_max": 292.0,
+            "class_id": "player",
+            "confidence": 0.754863440990448
+        },
+        {
+            "frame_id": 58,
+            "x_min": 930.0,
+            "y_min": 611.0,
+            "x_max": 1074.0,
+            "y_max": 837.0,
+            "class_id": "player",
+            "confidence": 0.8669738173484802
+        },
+        {
+            "frame_id": 58,
+            "x_min": 731.0,
+            "y_min": 165.0,
+            "x_max": 815.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.7665748000144958
+        },
+        {
+            "frame_id": 59,
+            "x_min": 927.0,
+            "y_min": 610.0,
+            "x_max": 1072.0,
+            "y_max": 838.0,
+            "class_id": "player",
+            "confidence": 0.8631473779678345
+        },
+        {
+            "frame_id": 59,
+            "x_min": 736.0,
+            "y_min": 165.0,
+            "x_max": 816.0,
+            "y_max": 296.0,
+            "class_id": "player",
+            "confidence": 0.7797114253044128
+        },
+        {
+            "frame_id": 60,
+            "x_min": 923.0,
+            "y_min": 611.0,
+            "x_max": 1071.0,
+            "y_max": 839.0,
+            "class_id": "player",
+            "confidence": 0.8744755387306213
+        },
+        {
+            "frame_id": 60,
+            "x_min": 746.0,
+            "y_min": 167.0,
+            "x_max": 820.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.7733492851257324
+        },
+        {
+            "frame_id": 61,
+            "x_min": 918.0,
+            "y_min": 612.0,
+            "x_max": 1070.0,
+            "y_max": 840.0,
+            "class_id": "player",
+            "confidence": 0.8839818239212036
+        },
+        {
+            "frame_id": 61,
+            "x_min": 753.0,
+            "y_min": 168.0,
+            "x_max": 828.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.7709494829177856
+        },
+        {
+            "frame_id": 62,
+            "x_min": 910.0,
+            "y_min": 612.0,
+            "x_max": 1069.0,
+            "y_max": 841.0,
+            "class_id": "player",
+            "confidence": 0.8888517022132874
+        },
+        {
+            "frame_id": 62,
+            "x_min": 756.0,
+            "y_min": 168.0,
+            "x_max": 835.0,
+            "y_max": 302.0,
+            "class_id": "player",
+            "confidence": 0.7705233097076416
+        },
+        {
+            "frame_id": 63,
+            "x_min": 904.0,
+            "y_min": 613.0,
+            "x_max": 1068.0,
+            "y_max": 841.0,
+            "class_id": "player",
+            "confidence": 0.8886511921882629
+        },
+        {
+            "frame_id": 63,
+            "x_min": 758.0,
+            "y_min": 170.0,
+            "x_max": 838.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.7594956755638123
+        },
+        {
+            "frame_id": 64,
+            "x_min": 891.0,
+            "y_min": 615.0,
+            "x_max": 1066.0,
+            "y_max": 843.0,
+            "class_id": "player",
+            "confidence": 0.8807658553123474
+        },
+        {
+            "frame_id": 64,
+            "x_min": 762.0,
+            "y_min": 175.0,
+            "x_max": 839.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.7401683330535889
+        },
+        {
+            "frame_id": 65,
+            "x_min": 887.0,
+            "y_min": 618.0,
+            "x_max": 1063.0,
+            "y_max": 843.0,
+            "class_id": "player",
+            "confidence": 0.8803325891494751
+        },
+        {
+            "frame_id": 65,
+            "x_min": 762.0,
+            "y_min": 176.0,
+            "x_max": 837.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.7472859621047974
+        },
+        {
+            "frame_id": 66,
+            "x_min": 883.0,
+            "y_min": 622.0,
+            "x_max": 1058.0,
+            "y_max": 847.0,
+            "class_id": "player",
+            "confidence": 0.8802585005760193
+        },
+        {
+            "frame_id": 66,
+            "x_min": 764.0,
+            "y_min": 179.0,
+            "x_max": 837.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.7575225830078125
+        },
+        {
+            "frame_id": 67,
+            "x_min": 883.0,
+            "y_min": 624.0,
+            "x_max": 1056.0,
+            "y_max": 848.0,
+            "class_id": "player",
+            "confidence": 0.8880494236946106
+        },
+        {
+            "frame_id": 67,
+            "x_min": 767.0,
+            "y_min": 176.0,
+            "x_max": 836.0,
+            "y_max": 302.0,
+            "class_id": "player",
+            "confidence": 0.7276716828346252
+        },
+        {
+            "frame_id": 68,
+            "x_min": 883.0,
+            "y_min": 627.0,
+            "x_max": 1057.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.895832896232605
+        },
+        {
+            "frame_id": 68,
+            "x_min": 769.0,
+            "y_min": 176.0,
+            "x_max": 834.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.6745957732200623
+        },
+        {
+            "frame_id": 69,
+            "x_min": 883.0,
+            "y_min": 633.0,
+            "x_max": 1058.0,
+            "y_max": 851.0,
+            "class_id": "player",
+            "confidence": 0.897624135017395
+        },
+        {
+            "frame_id": 69,
+            "x_min": 772.0,
+            "y_min": 176.0,
+            "x_max": 834.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.6831522583961487
+        },
+        {
+            "frame_id": 70,
+            "x_min": 882.0,
+            "y_min": 633.0,
+            "x_max": 1057.0,
+            "y_max": 851.0,
+            "class_id": "player",
+            "confidence": 0.8947655558586121
+        },
+        {
+            "frame_id": 70,
+            "x_min": 775.0,
+            "y_min": 175.0,
+            "x_max": 838.0,
+            "y_max": 305.0,
+            "class_id": "player",
+            "confidence": 0.6735702753067017
+        },
+        {
+            "frame_id": 70,
+            "x_min": 815.0,
+            "y_min": 290.0,
+            "x_max": 837.0,
+            "y_max": 306.0,
+            "class_id": "ball",
+            "confidence": 0.4866628050804138
+        },
+        {
+            "frame_id": 71,
+            "x_min": 882.0,
+            "y_min": 634.0,
+            "x_max": 1058.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.8903353810310364
+        },
+        {
+            "frame_id": 71,
+            "x_min": 776.0,
+            "y_min": 178.0,
+            "x_max": 838.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.6859447360038757
+        },
+        {
+            "frame_id": 71,
+            "x_min": 822.0,
+            "y_min": 299.0,
+            "x_max": 845.0,
+            "y_max": 314.0,
+            "class_id": "ball",
+            "confidence": 0.4526931643486023
+        },
+        {
+            "frame_id": 72,
+            "x_min": 882.0,
+            "y_min": 635.0,
+            "x_max": 1058.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.892484188079834
+        },
+        {
+            "frame_id": 72,
+            "x_min": 778.0,
+            "y_min": 178.0,
+            "x_max": 839.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.7038435339927673
+        },
+        {
+            "frame_id": 72,
+            "x_min": 826.0,
+            "y_min": 307.0,
+            "x_max": 848.0,
+            "y_max": 325.0,
+            "class_id": "ball",
+            "confidence": 0.49360573291778564
+        },
+        {
+            "frame_id": 73,
+            "x_min": 882.0,
+            "y_min": 637.0,
+            "x_max": 1058.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.892876148223877
+        },
+        {
+            "frame_id": 73,
+            "x_min": 785.0,
+            "y_min": 179.0,
+            "x_max": 838.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.6740201115608215
+        },
+        {
+            "frame_id": 73,
+            "x_min": 831.0,
+            "y_min": 319.0,
+            "x_max": 854.0,
+            "y_max": 336.0,
+            "class_id": "ball",
+            "confidence": 0.40749508142471313
+        },
+        {
+            "frame_id": 74,
+            "x_min": 882.0,
+            "y_min": 638.0,
+            "x_max": 1058.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.8906806111335754
+        },
+        {
+            "frame_id": 74,
+            "x_min": 787.0,
+            "y_min": 182.0,
+            "x_max": 837.0,
+            "y_max": 299.0,
+            "class_id": "player",
+            "confidence": 0.7210840582847595
+        },
+        {
+            "frame_id": 74,
+            "x_min": 839.0,
+            "y_min": 329.0,
+            "x_max": 861.0,
+            "y_max": 348.0,
+            "class_id": "ball",
+            "confidence": 0.5227489471435547
+        },
+        {
+            "frame_id": 75,
+            "x_min": 882.0,
+            "y_min": 638.0,
+            "x_max": 1058.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.8892561197280884
+        },
+        {
+            "frame_id": 75,
+            "x_min": 789.0,
+            "y_min": 186.0,
+            "x_max": 843.0,
+            "y_max": 299.0,
+            "class_id": "player",
+            "confidence": 0.7108772993087769
+        },
+        {
+            "frame_id": 75,
+            "x_min": 845.0,
+            "y_min": 340.0,
+            "x_max": 868.0,
+            "y_max": 362.0,
+            "class_id": "ball",
+            "confidence": 0.5770766735076904
+        },
+        {
+            "frame_id": 76,
+            "x_min": 882.0,
+            "y_min": 638.0,
+            "x_max": 1056.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.8930049538612366
+        },
+        {
+            "frame_id": 76,
+            "x_min": 788.0,
+            "y_min": 187.0,
+            "x_max": 840.0,
+            "y_max": 299.0,
+            "class_id": "player",
+            "confidence": 0.7495388388633728
+        },
+        {
+            "frame_id": 77,
+            "x_min": 882.0,
+            "y_min": 637.0,
+            "x_max": 1057.0,
+            "y_max": 850.0,
+            "class_id": "player",
+            "confidence": 0.894466757774353
+        },
+        {
+            "frame_id": 77,
+            "x_min": 789.0,
+            "y_min": 186.0,
+            "x_max": 844.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.8040631413459778
+        },
+        {
+            "frame_id": 77,
+            "x_min": 854.0,
+            "y_min": 362.0,
+            "x_max": 878.0,
+            "y_max": 384.0,
+            "class_id": "ball",
+            "confidence": 0.5056029558181763
+        },
+        {
+            "frame_id": 78,
+            "x_min": 882.0,
+            "y_min": 638.0,
+            "x_max": 1054.0,
+            "y_max": 851.0,
+            "class_id": "player",
+            "confidence": 0.8967769145965576
+        },
+        {
+            "frame_id": 78,
+            "x_min": 789.0,
+            "y_min": 186.0,
+            "x_max": 851.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.813138484954834
+        },
+        {
+            "frame_id": 78,
+            "x_min": 862.0,
+            "y_min": 375.0,
+            "x_max": 883.0,
+            "y_max": 395.0,
+            "class_id": "ball",
+            "confidence": 0.605481743812561
+        },
+        {
+            "frame_id": 79,
+            "x_min": 882.0,
+            "y_min": 638.0,
+            "x_max": 1049.0,
+            "y_max": 852.0,
+            "class_id": "player",
+            "confidence": 0.8926059603691101
+        },
+        {
+            "frame_id": 79,
+            "x_min": 789.0,
+            "y_min": 188.0,
+            "x_max": 858.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.8148350119590759
+        },
+        {
+            "frame_id": 80,
+            "x_min": 880.0,
+            "y_min": 637.0,
+            "x_max": 1047.0,
+            "y_max": 854.0,
+            "class_id": "player",
+            "confidence": 0.8811054229736328
+        },
+        {
+            "frame_id": 80,
+            "x_min": 789.0,
+            "y_min": 188.0,
+            "x_max": 861.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.8225173950195312
+        },
+        {
+            "frame_id": 80,
+            "x_min": 872.0,
+            "y_min": 402.0,
+            "x_max": 899.0,
+            "y_max": 426.0,
+            "class_id": "ball",
+            "confidence": 0.5855544209480286
+        },
+        {
+            "frame_id": 81,
+            "x_min": 879.0,
+            "y_min": 638.0,
+            "x_max": 1051.0,
+            "y_max": 857.0,
+            "class_id": "player",
+            "confidence": 0.8752485513687134
+        },
+        {
+            "frame_id": 81,
+            "x_min": 790.0,
+            "y_min": 187.0,
+            "x_max": 862.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.8183364868164062
+        },
+        {
+            "frame_id": 81,
+            "x_min": 881.0,
+            "y_min": 411.0,
+            "x_max": 905.0,
+            "y_max": 436.0,
+            "class_id": "ball",
+            "confidence": 0.5782349109649658
+        },
+        {
+            "frame_id": 82,
+            "x_min": 877.0,
+            "y_min": 638.0,
+            "x_max": 1058.0,
+            "y_max": 860.0,
+            "class_id": "player",
+            "confidence": 0.8729207515716553
+        },
+        {
+            "frame_id": 82,
+            "x_min": 791.0,
+            "y_min": 189.0,
+            "x_max": 862.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.8013963103294373
+        },
+        {
+            "frame_id": 82,
+            "x_min": 879.0,
+            "y_min": 428.0,
+            "x_max": 909.0,
+            "y_max": 452.0,
+            "class_id": "ball",
+            "confidence": 0.612496018409729
+        },
+        {
+            "frame_id": 83,
+            "x_min": 874.0,
+            "y_min": 639.0,
+            "x_max": 1066.0,
+            "y_max": 862.0,
+            "class_id": "player",
+            "confidence": 0.8874149918556213
+        },
+        {
+            "frame_id": 83,
+            "x_min": 792.0,
+            "y_min": 187.0,
+            "x_max": 862.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.7924667596817017
+        },
+        {
+            "frame_id": 83,
+            "x_min": 890.0,
+            "y_min": 446.0,
+            "x_max": 918.0,
+            "y_max": 468.0,
+            "class_id": "ball",
+            "confidence": 0.5674964189529419
+        },
+        {
+            "frame_id": 84,
+            "x_min": 871.0,
+            "y_min": 640.0,
+            "x_max": 1074.0,
+            "y_max": 864.0,
+            "class_id": "player",
+            "confidence": 0.8956095576286316
+        },
+        {
+            "frame_id": 84,
+            "x_min": 793.0,
+            "y_min": 187.0,
+            "x_max": 863.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.7901238203048706
+        },
+        {
+            "frame_id": 85,
+            "x_min": 863.0,
+            "y_min": 642.0,
+            "x_max": 1081.0,
+            "y_max": 869.0,
+            "class_id": "player",
+            "confidence": 0.8975095748901367
+        },
+        {
+            "frame_id": 85,
+            "x_min": 794.0,
+            "y_min": 187.0,
+            "x_max": 863.0,
+            "y_max": 301.0,
+            "class_id": "player",
+            "confidence": 0.7864840030670166
+        },
+        {
+            "frame_id": 85,
+            "x_min": 907.0,
+            "y_min": 477.0,
+            "x_max": 929.0,
+            "y_max": 503.0,
+            "class_id": "ball",
+            "confidence": 0.6536731123924255
+        },
+        {
+            "frame_id": 86,
+            "x_min": 853.0,
+            "y_min": 647.0,
+            "x_max": 1081.0,
+            "y_max": 875.0,
+            "class_id": "player",
+            "confidence": 0.8982759118080139
+        },
+        {
+            "frame_id": 86,
+            "x_min": 796.0,
+            "y_min": 187.0,
+            "x_max": 863.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.8150169253349304
+        },
+        {
+            "frame_id": 86,
+            "x_min": 916.0,
+            "y_min": 495.0,
+            "x_max": 934.0,
+            "y_max": 520.0,
+            "class_id": "ball",
+            "confidence": 0.6334895491600037
+        },
+        {
+            "frame_id": 87,
+            "x_min": 843.0,
+            "y_min": 649.0,
+            "x_max": 1082.0,
+            "y_max": 877.0,
+            "class_id": "player",
+            "confidence": 0.9009150266647339
+        },
+        {
+            "frame_id": 87,
+            "x_min": 797.0,
+            "y_min": 187.0,
+            "x_max": 864.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.8020545244216919
+        },
+        {
+            "frame_id": 87,
+            "x_min": 921.0,
+            "y_min": 512.0,
+            "x_max": 946.0,
+            "y_max": 541.0,
+            "class_id": "ball",
+            "confidence": 0.5938202142715454
+        },
+        {
+            "frame_id": 88,
+            "x_min": 831.0,
+            "y_min": 651.0,
+            "x_max": 1083.0,
+            "y_max": 874.0,
+            "class_id": "player",
+            "confidence": 0.8996796607971191
+        },
+        {
+            "frame_id": 88,
+            "x_min": 799.0,
+            "y_min": 189.0,
+            "x_max": 866.0,
+            "y_max": 300.0,
+            "class_id": "player",
+            "confidence": 0.79005366563797
+        },
+        {
+            "frame_id": 88,
+            "x_min": 926.0,
+            "y_min": 531.0,
+            "x_max": 952.0,
+            "y_max": 560.0,
+            "class_id": "ball",
+            "confidence": 0.5562018752098083
+        },
+        {
+            "frame_id": 89,
+            "x_min": 824.0,
+            "y_min": 653.0,
+            "x_max": 1077.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.9011584520339966
+        },
+        {
+            "frame_id": 89,
+            "x_min": 805.0,
+            "y_min": 189.0,
+            "x_max": 867.0,
+            "y_max": 299.0,
+            "class_id": "player",
+            "confidence": 0.7797368168830872
+        },
+        {
+            "frame_id": 90,
+            "x_min": 818.0,
+            "y_min": 657.0,
+            "x_max": 1073.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.9091018438339233
+        },
+        {
+            "frame_id": 90,
+            "x_min": 808.0,
+            "y_min": 188.0,
+            "x_max": 869.0,
+            "y_max": 299.0,
+            "class_id": "player",
+            "confidence": 0.7816327214241028
+        },
+        {
+            "frame_id": 91,
+            "x_min": 815.0,
+            "y_min": 661.0,
+            "x_max": 1065.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.9117084741592407
+        },
+        {
+            "frame_id": 91,
+            "x_min": 811.0,
+            "y_min": 188.0,
+            "x_max": 872.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.7819496393203735
+        },
+        {
+            "frame_id": 92,
+            "x_min": 816.0,
+            "y_min": 664.0,
+            "x_max": 1052.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.9067065715789795
+        },
+        {
+            "frame_id": 92,
+            "x_min": 811.0,
+            "y_min": 188.0,
+            "x_max": 874.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.7809794545173645
+        },
+        {
+            "frame_id": 93,
+            "x_min": 816.0,
+            "y_min": 668.0,
+            "x_max": 1039.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.9031117558479309
+        },
+        {
+            "frame_id": 93,
+            "x_min": 812.0,
+            "y_min": 188.0,
+            "x_max": 879.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.8023362159729004
+        },
+        {
+            "frame_id": 94,
+            "x_min": 815.0,
+            "y_min": 655.0,
+            "x_max": 1028.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.8950809240341187
+        },
+        {
+            "frame_id": 94,
+            "x_min": 813.0,
+            "y_min": 188.0,
+            "x_max": 881.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.7987847924232483
+        },
+        {
+            "frame_id": 95,
+            "x_min": 816.0,
+            "y_min": 670.0,
+            "x_max": 1012.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.905494213104248
+        },
+        {
+            "frame_id": 95,
+            "x_min": 814.0,
+            "y_min": 188.0,
+            "x_max": 884.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.796809732913971
+        },
+        {
+            "frame_id": 96,
+            "x_min": 816.0,
+            "y_min": 671.0,
+            "x_max": 998.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8935282826423645
+        },
+        {
+            "frame_id": 96,
+            "x_min": 814.0,
+            "y_min": 187.0,
+            "x_max": 887.0,
+            "y_max": 298.0,
+            "class_id": "player",
+            "confidence": 0.8017273545265198
+        },
+        {
+            "frame_id": 97,
+            "x_min": 817.0,
+            "y_min": 671.0,
+            "x_max": 982.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.878424346446991
+        },
+        {
+            "frame_id": 97,
+            "x_min": 815.0,
+            "y_min": 186.0,
+            "x_max": 888.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.7967506051063538
+        },
+        {
+            "frame_id": 98,
+            "x_min": 817.0,
+            "y_min": 671.0,
+            "x_max": 981.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.8807621598243713
+        },
+        {
+            "frame_id": 98,
+            "x_min": 815.0,
+            "y_min": 186.0,
+            "x_max": 888.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.8101508617401123
+        },
+        {
+            "frame_id": 99,
+            "x_min": 817.0,
+            "y_min": 670.0,
+            "x_max": 984.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8856253623962402
+        },
+        {
+            "frame_id": 99,
+            "x_min": 815.0,
+            "y_min": 186.0,
+            "x_max": 889.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.8064231276512146
+        },
+        {
+            "frame_id": 99,
+            "x_min": 1000.0,
+            "y_min": 766.0,
+            "x_max": 1025.0,
+            "y_max": 781.0,
+            "class_id": "ball",
+            "confidence": 0.5619727373123169
+        },
+        {
+            "frame_id": 100,
+            "x_min": 818.0,
+            "y_min": 670.0,
+            "x_max": 989.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8881323337554932
+        },
+        {
+            "frame_id": 100,
+            "x_min": 816.0,
+            "y_min": 184.0,
+            "x_max": 889.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.821722149848938
+        },
+        {
+            "frame_id": 100,
+            "x_min": 1006.0,
+            "y_min": 766.0,
+            "x_max": 1030.0,
+            "y_max": 781.0,
+            "class_id": "ball",
+            "confidence": 0.6320752501487732
+        },
+        {
+            "frame_id": 101,
+            "x_min": 820.0,
+            "y_min": 670.0,
+            "x_max": 993.0,
+            "y_max": 874.0,
+            "class_id": "player",
+            "confidence": 0.8831556439399719
+        },
+        {
+            "frame_id": 101,
+            "x_min": 817.0,
+            "y_min": 183.0,
+            "x_max": 888.0,
+            "y_max": 297.0,
+            "class_id": "player",
+            "confidence": 0.8186681866645813
+        },
+        {
+            "frame_id": 101,
+            "x_min": 1010.0,
+            "y_min": 767.0,
+            "x_max": 1035.0,
+            "y_max": 783.0,
+            "class_id": "ball",
+            "confidence": 0.615924060344696
+        },
+        {
+            "frame_id": 102,
+            "x_min": 823.0,
+            "y_min": 670.0,
+            "x_max": 989.0,
+            "y_max": 874.0,
+            "class_id": "player",
+            "confidence": 0.8767089247703552
+        },
+        {
+            "frame_id": 102,
+            "x_min": 818.0,
+            "y_min": 181.0,
+            "x_max": 888.0,
+            "y_max": 295.0,
+            "class_id": "player",
+            "confidence": 0.7890006899833679
+        },
+        {
+            "frame_id": 102,
+            "x_min": 1013.0,
+            "y_min": 769.0,
+            "x_max": 1039.0,
+            "y_max": 785.0,
+            "class_id": "ball",
+            "confidence": 0.619513750076294
+        },
+        {
+            "frame_id": 103,
+            "x_min": 822.0,
+            "y_min": 670.0,
+            "x_max": 987.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8785915970802307
+        },
+        {
+            "frame_id": 103,
+            "x_min": 821.0,
+            "y_min": 177.0,
+            "x_max": 889.0,
+            "y_max": 295.0,
+            "class_id": "player",
+            "confidence": 0.7763752937316895
+        },
+        {
+            "frame_id": 103,
+            "x_min": 1010.0,
+            "y_min": 770.0,
+            "x_max": 1044.0,
+            "y_max": 789.0,
+            "class_id": "ball",
+            "confidence": 0.40317070484161377
+        },
+        {
+            "frame_id": 104,
+            "x_min": 826.0,
+            "y_min": 670.0,
+            "x_max": 984.0,
+            "y_max": 874.0,
+            "class_id": "player",
+            "confidence": 0.8762083649635315
+        },
+        {
+            "frame_id": 104,
+            "x_min": 824.0,
+            "y_min": 176.0,
+            "x_max": 888.0,
+            "y_max": 293.0,
+            "class_id": "player",
+            "confidence": 0.7832143306732178
+        },
+        {
+            "frame_id": 105,
+            "x_min": 826.0,
+            "y_min": 670.0,
+            "x_max": 977.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8793111443519592
+        },
+        {
+            "frame_id": 105,
+            "x_min": 827.0,
+            "y_min": 175.0,
+            "x_max": 888.0,
+            "y_max": 293.0,
+            "class_id": "player",
+            "confidence": 0.7852199673652649
+        },
+        {
+            "frame_id": 106,
+            "x_min": 828.0,
+            "y_min": 667.0,
+            "x_max": 971.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.8475313186645508
+        },
+        {
+            "frame_id": 106,
+            "x_min": 830.0,
+            "y_min": 174.0,
+            "x_max": 889.0,
+            "y_max": 293.0,
+            "class_id": "player",
+            "confidence": 0.774450957775116
+        },
+        {
+            "frame_id": 107,
+            "x_min": 828.0,
+            "y_min": 663.0,
+            "x_max": 969.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8567564487457275
+        },
+        {
+            "frame_id": 107,
+            "x_min": 833.0,
+            "y_min": 173.0,
+            "x_max": 890.0,
+            "y_max": 292.0,
+            "class_id": "player",
+            "confidence": 0.7742986679077148
+        },
+        {
+            "frame_id": 107,
+            "x_min": 1016.0,
+            "y_min": 643.0,
+            "x_max": 1040.0,
+            "y_max": 675.0,
+            "class_id": "ball",
+            "confidence": 0.48112308979034424
+        },
+        {
+            "frame_id": 108,
+            "x_min": 828.0,
+            "y_min": 669.0,
+            "x_max": 967.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.8696549534797668
+        },
+        {
+            "frame_id": 108,
+            "x_min": 835.0,
+            "y_min": 173.0,
+            "x_max": 890.0,
+            "y_max": 292.0,
+            "class_id": "player",
+            "confidence": 0.7605511546134949
+        },
+        {
+            "frame_id": 109,
+            "x_min": 822.0,
+            "y_min": 648.0,
+            "x_max": 965.0,
+            "y_max": 874.0,
+            "class_id": "player",
+            "confidence": 0.8780458569526672
+        },
+        {
+            "frame_id": 109,
+            "x_min": 835.0,
+            "y_min": 172.0,
+            "x_max": 892.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.77816241979599
+        },
+        {
+            "frame_id": 109,
+            "x_min": 1011.0,
+            "y_min": 571.0,
+            "x_max": 1036.0,
+            "y_max": 609.0,
+            "class_id": "ball",
+            "confidence": 0.40153270959854126
+        },
+        {
+            "frame_id": 110,
+            "x_min": 811.0,
+            "y_min": 666.0,
+            "x_max": 963.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8980147242546082
+        },
+        {
+            "frame_id": 110,
+            "x_min": 835.0,
+            "y_min": 172.0,
+            "x_max": 894.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7636545896530151
+        },
+        {
+            "frame_id": 110,
+            "x_min": 1008.0,
+            "y_min": 548.0,
+            "x_max": 1032.0,
+            "y_max": 582.0,
+            "class_id": "ball",
+            "confidence": 0.43414437770843506
+        },
+        {
+            "frame_id": 111,
+            "x_min": 812.0,
+            "y_min": 666.0,
+            "x_max": 962.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8966494202613831
+        },
+        {
+            "frame_id": 111,
+            "x_min": 839.0,
+            "y_min": 173.0,
+            "x_max": 898.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7636032700538635
+        },
+        {
+            "frame_id": 111,
+            "x_min": 1005.0,
+            "y_min": 525.0,
+            "x_max": 1029.0,
+            "y_max": 556.0,
+            "class_id": "ball",
+            "confidence": 0.5766642093658447
+        },
+        {
+            "frame_id": 112,
+            "x_min": 813.0,
+            "y_min": 665.0,
+            "x_max": 961.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.890344500541687
+        },
+        {
+            "frame_id": 112,
+            "x_min": 839.0,
+            "y_min": 173.0,
+            "x_max": 901.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7759495377540588
+        },
+        {
+            "frame_id": 112,
+            "x_min": 1003.0,
+            "y_min": 501.0,
+            "x_max": 1027.0,
+            "y_max": 533.0,
+            "class_id": "ball",
+            "confidence": 0.7018404006958008
+        },
+        {
+            "frame_id": 113,
+            "x_min": 816.0,
+            "y_min": 664.0,
+            "x_max": 961.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.883030354976654
+        },
+        {
+            "frame_id": 113,
+            "x_min": 840.0,
+            "y_min": 174.0,
+            "x_max": 904.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7915515303611755
+        },
+        {
+            "frame_id": 113,
+            "x_min": 1003.0,
+            "y_min": 481.0,
+            "x_max": 1025.0,
+            "y_max": 513.0,
+            "class_id": "ball",
+            "confidence": 0.6661872267723083
+        },
+        {
+            "frame_id": 114,
+            "x_min": 818.0,
+            "y_min": 663.0,
+            "x_max": 962.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8812012672424316
+        },
+        {
+            "frame_id": 114,
+            "x_min": 839.0,
+            "y_min": 174.0,
+            "x_max": 907.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.8077620267868042
+        },
+        {
+            "frame_id": 114,
+            "x_min": 1002.0,
+            "y_min": 460.0,
+            "x_max": 1026.0,
+            "y_max": 491.0,
+            "class_id": "ball",
+            "confidence": 0.5570877194404602
+        },
+        {
+            "frame_id": 115,
+            "x_min": 817.0,
+            "y_min": 662.0,
+            "x_max": 961.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.875375509262085
+        },
+        {
+            "frame_id": 115,
+            "x_min": 841.0,
+            "y_min": 175.0,
+            "x_max": 910.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7983657121658325
+        },
+        {
+            "frame_id": 116,
+            "x_min": 816.0,
+            "y_min": 661.0,
+            "x_max": 963.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8764256238937378
+        },
+        {
+            "frame_id": 116,
+            "x_min": 840.0,
+            "y_min": 177.0,
+            "x_max": 912.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7894899845123291
+        },
+        {
+            "frame_id": 117,
+            "x_min": 814.0,
+            "y_min": 660.0,
+            "x_max": 963.0,
+            "y_max": 872.0,
+            "class_id": "player",
+            "confidence": 0.8773312568664551
+        },
+        {
+            "frame_id": 117,
+            "x_min": 840.0,
+            "y_min": 177.0,
+            "x_max": 912.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7717134952545166
+        },
+        {
+            "frame_id": 118,
+            "x_min": 812.0,
+            "y_min": 659.0,
+            "x_max": 964.0,
+            "y_max": 873.0,
+            "class_id": "player",
+            "confidence": 0.8766766786575317
+        },
+        {
+            "frame_id": 118,
+            "x_min": 840.0,
+            "y_min": 180.0,
+            "x_max": 914.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7621313333511353
+        },
+        {
+            "frame_id": 118,
+            "x_min": 991.0,
+            "y_min": 402.0,
+            "x_max": 1015.0,
+            "y_max": 425.0,
+            "class_id": "ball",
+            "confidence": 0.49814194440841675
+        },
+        {
+            "frame_id": 119,
+            "x_min": 811.0,
+            "y_min": 657.0,
+            "x_max": 966.0,
+            "y_max": 874.0,
+            "class_id": "player",
+            "confidence": 0.8787384629249573
+        },
+        {
+            "frame_id": 119,
+            "x_min": 841.0,
+            "y_min": 182.0,
+            "x_max": 914.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7666580677032471
+        },
+        {
+            "frame_id": 119,
+            "x_min": 992.0,
+            "y_min": 390.0,
+            "x_max": 1013.0,
+            "y_max": 408.0,
+            "class_id": "ball",
+            "confidence": 0.4328778386116028
+        },
+        {
+            "frame_id": 120,
+            "x_min": 809.0,
+            "y_min": 656.0,
+            "x_max": 968.0,
+            "y_max": 875.0,
+            "class_id": "player",
+            "confidence": 0.8789793252944946
+        },
+        {
+            "frame_id": 120,
+            "x_min": 843.0,
+            "y_min": 182.0,
+            "x_max": 914.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7584134340286255
+        },
+        {
+            "frame_id": 120,
+            "x_min": 991.0,
+            "y_min": 378.0,
+            "x_max": 1014.0,
+            "y_max": 398.0,
+            "class_id": "ball",
+            "confidence": 0.6080286502838135
+        },
+        {
+            "frame_id": 121,
+            "x_min": 807.0,
+            "y_min": 655.0,
+            "x_max": 968.0,
+            "y_max": 876.0,
+            "class_id": "player",
+            "confidence": 0.8845804929733276
+        },
+        {
+            "frame_id": 121,
+            "x_min": 846.0,
+            "y_min": 182.0,
+            "x_max": 914.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7375820279121399
+        },
+        {
+            "frame_id": 121,
+            "x_min": 990.0,
+            "y_min": 368.0,
+            "x_max": 1009.0,
+            "y_max": 386.0,
+            "class_id": "ball",
+            "confidence": 0.6562268137931824
+        },
+        {
+            "frame_id": 122,
+            "x_min": 806.0,
+            "y_min": 655.0,
+            "x_max": 968.0,
+            "y_max": 877.0,
+            "class_id": "player",
+            "confidence": 0.8813846111297607
+        },
+        {
+            "frame_id": 122,
+            "x_min": 848.0,
+            "y_min": 182.0,
+            "x_max": 914.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7419407367706299
+        },
+        {
+            "frame_id": 122,
+            "x_min": 989.0,
+            "y_min": 359.0,
+            "x_max": 1005.0,
+            "y_max": 376.0,
+            "class_id": "ball",
+            "confidence": 0.6031497716903687
+        },
+        {
+            "frame_id": 123,
+            "x_min": 806.0,
+            "y_min": 655.0,
+            "x_max": 969.0,
+            "y_max": 877.0,
+            "class_id": "player",
+            "confidence": 0.8852429389953613
+        },
+        {
+            "frame_id": 123,
+            "x_min": 849.0,
+            "y_min": 181.0,
+            "x_max": 912.0,
+            "y_max": 289.0,
+            "class_id": "player",
+            "confidence": 0.7292980551719666
+        },
+        {
+            "frame_id": 123,
+            "x_min": 987.0,
+            "y_min": 351.0,
+            "x_max": 1006.0,
+            "y_max": 367.0,
+            "class_id": "ball",
+            "confidence": 0.5922814011573792
+        },
+        {
+            "frame_id": 124,
+            "x_min": 806.0,
+            "y_min": 655.0,
+            "x_max": 969.0,
+            "y_max": 878.0,
+            "class_id": "player",
+            "confidence": 0.8876418471336365
+        },
+        {
+            "frame_id": 124,
+            "x_min": 853.0,
+            "y_min": 181.0,
+            "x_max": 912.0,
+            "y_max": 289.0,
+            "class_id": "player",
+            "confidence": 0.7354002594947815
+        },
+        {
+            "frame_id": 124,
+            "x_min": 985.0,
+            "y_min": 343.0,
+            "x_max": 1005.0,
+            "y_max": 356.0,
+            "class_id": "ball",
+            "confidence": 0.4675387740135193
+        },
+        {
+            "frame_id": 125,
+            "x_min": 810.0,
+            "y_min": 655.0,
+            "x_max": 969.0,
+            "y_max": 877.0,
+            "class_id": "player",
+            "confidence": 0.8865609765052795
+        },
+        {
+            "frame_id": 125,
+            "x_min": 855.0,
+            "y_min": 182.0,
+            "x_max": 913.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.739205539226532
+        },
+        {
+            "frame_id": 125,
+            "x_min": 982.0,
+            "y_min": 334.0,
+            "x_max": 1001.0,
+            "y_max": 348.0,
+            "class_id": "ball",
+            "confidence": 0.5561820268630981
+        },
+        {
+            "frame_id": 126,
+            "x_min": 812.0,
+            "y_min": 656.0,
+            "x_max": 968.0,
+            "y_max": 878.0,
+            "class_id": "player",
+            "confidence": 0.8847016096115112
+        },
+        {
+            "frame_id": 126,
+            "x_min": 855.0,
+            "y_min": 181.0,
+            "x_max": 914.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.7421241998672485
+        },
+        {
+            "frame_id": 126,
+            "x_min": 981.0,
+            "y_min": 328.0,
+            "x_max": 999.0,
+            "y_max": 342.0,
+            "class_id": "ball",
+            "confidence": 0.5296721458435059
+        },
+        {
+            "frame_id": 127,
+            "x_min": 815.0,
+            "y_min": 657.0,
+            "x_max": 968.0,
+            "y_max": 877.0,
+            "class_id": "player",
+            "confidence": 0.8842871785163879
+        },
+        {
+            "frame_id": 127,
+            "x_min": 855.0,
+            "y_min": 180.0,
+            "x_max": 917.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.7465558648109436
+        },
+        {
+            "frame_id": 128,
+            "x_min": 817.0,
+            "y_min": 657.0,
+            "x_max": 969.0,
+            "y_max": 877.0,
+            "class_id": "player",
+            "confidence": 0.8874390125274658
+        },
+        {
+            "frame_id": 128,
+            "x_min": 855.0,
+            "y_min": 180.0,
+            "x_max": 918.0,
+            "y_max": 289.0,
+            "class_id": "player",
+            "confidence": 0.7284424304962158
+        },
+        {
+            "frame_id": 129,
+            "x_min": 819.0,
+            "y_min": 658.0,
+            "x_max": 970.0,
+            "y_max": 883.0,
+            "class_id": "player",
+            "confidence": 0.8887004256248474
+        },
+        {
+            "frame_id": 129,
+            "x_min": 855.0,
+            "y_min": 180.0,
+            "x_max": 919.0,
+            "y_max": 289.0,
+            "class_id": "player",
+            "confidence": 0.7314785718917847
+        },
+        {
+            "frame_id": 130,
+            "x_min": 821.0,
+            "y_min": 659.0,
+            "x_max": 971.0,
+            "y_max": 887.0,
+            "class_id": "player",
+            "confidence": 0.883635938167572
+        },
+        {
+            "frame_id": 130,
+            "x_min": 857.0,
+            "y_min": 181.0,
+            "x_max": 922.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7359379529953003
+        },
+        {
+            "frame_id": 130,
+            "x_min": 974.0,
+            "y_min": 307.0,
+            "x_max": 994.0,
+            "y_max": 320.0,
+            "class_id": "ball",
+            "confidence": 0.6005962491035461
+        },
+        {
+            "frame_id": 131,
+            "x_min": 819.0,
+            "y_min": 660.0,
+            "x_max": 971.0,
+            "y_max": 890.0,
+            "class_id": "player",
+            "confidence": 0.8731533885002136
+        },
+        {
+            "frame_id": 131,
+            "x_min": 857.0,
+            "y_min": 182.0,
+            "x_max": 923.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7530616521835327
+        },
+        {
+            "frame_id": 131,
+            "x_min": 972.0,
+            "y_min": 305.0,
+            "x_max": 991.0,
+            "y_max": 317.0,
+            "class_id": "ball",
+            "confidence": 0.61373370885849
+        },
+        {
+            "frame_id": 132,
+            "x_min": 819.0,
+            "y_min": 661.0,
+            "x_max": 973.0,
+            "y_max": 897.0,
+            "class_id": "player",
+            "confidence": 0.8725084662437439
+        },
+        {
+            "frame_id": 132,
+            "x_min": 859.0,
+            "y_min": 183.0,
+            "x_max": 924.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7397485971450806
+        },
+        {
+            "frame_id": 132,
+            "x_min": 971.0,
+            "y_min": 302.0,
+            "x_max": 989.0,
+            "y_max": 314.0,
+            "class_id": "ball",
+            "confidence": 0.5518400073051453
+        },
+        {
+            "frame_id": 133,
+            "x_min": 820.0,
+            "y_min": 662.0,
+            "x_max": 973.0,
+            "y_max": 899.0,
+            "class_id": "player",
+            "confidence": 0.8713205456733704
+        },
+        {
+            "frame_id": 133,
+            "x_min": 858.0,
+            "y_min": 185.0,
+            "x_max": 926.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7211970090866089
+        },
+        {
+            "frame_id": 133,
+            "x_min": 969.0,
+            "y_min": 300.0,
+            "x_max": 986.0,
+            "y_max": 310.0,
+            "class_id": "ball",
+            "confidence": 0.4862462878227234
+        },
+        {
+            "frame_id": 134,
+            "x_min": 820.0,
+            "y_min": 663.0,
+            "x_max": 974.0,
+            "y_max": 903.0,
+            "class_id": "player",
+            "confidence": 0.871071994304657
+        },
+        {
+            "frame_id": 134,
+            "x_min": 858.0,
+            "y_min": 184.0,
+            "x_max": 927.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7223212122917175
+        },
+        {
+            "frame_id": 134,
+            "x_min": 968.0,
+            "y_min": 298.0,
+            "x_max": 984.0,
+            "y_max": 308.0,
+            "class_id": "ball",
+            "confidence": 0.5248590707778931
+        },
+        {
+            "frame_id": 135,
+            "x_min": 820.0,
+            "y_min": 664.0,
+            "x_max": 974.0,
+            "y_max": 909.0,
+            "class_id": "player",
+            "confidence": 0.8705311417579651
+        },
+        {
+            "frame_id": 135,
+            "x_min": 858.0,
+            "y_min": 184.0,
+            "x_max": 926.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7002019882202148
+        },
+        {
+            "frame_id": 135,
+            "x_min": 966.0,
+            "y_min": 295.0,
+            "x_max": 983.0,
+            "y_max": 307.0,
+            "class_id": "ball",
+            "confidence": 0.5297774076461792
+        },
+        {
+            "frame_id": 136,
+            "x_min": 820.0,
+            "y_min": 666.0,
+            "x_max": 974.0,
+            "y_max": 912.0,
+            "class_id": "player",
+            "confidence": 0.8720749020576477
+        },
+        {
+            "frame_id": 136,
+            "x_min": 860.0,
+            "y_min": 181.0,
+            "x_max": 922.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7070323824882507
+        },
+        {
+            "frame_id": 136,
+            "x_min": 964.0,
+            "y_min": 294.0,
+            "x_max": 981.0,
+            "y_max": 306.0,
+            "class_id": "ball",
+            "confidence": 0.5242099761962891
+        },
+        {
+            "frame_id": 137,
+            "x_min": 821.0,
+            "y_min": 667.0,
+            "x_max": 974.0,
+            "y_max": 912.0,
+            "class_id": "player",
+            "confidence": 0.8692160248756409
+        },
+        {
+            "frame_id": 137,
+            "x_min": 858.0,
+            "y_min": 177.0,
+            "x_max": 920.0,
+            "y_max": 288.0,
+            "class_id": "player",
+            "confidence": 0.7040401697158813
+        },
+        {
+            "frame_id": 137,
+            "x_min": 962.0,
+            "y_min": 292.0,
+            "x_max": 980.0,
+            "y_max": 305.0,
+            "class_id": "ball",
+            "confidence": 0.47621357440948486
+        },
+        {
+            "frame_id": 138,
+            "x_min": 822.0,
+            "y_min": 667.0,
+            "x_max": 975.0,
+            "y_max": 913.0,
+            "class_id": "player",
+            "confidence": 0.8669619560241699
+        },
+        {
+            "frame_id": 138,
+            "x_min": 860.0,
+            "y_min": 175.0,
+            "x_max": 924.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7147879004478455
+        },
+        {
+            "frame_id": 138,
+            "x_min": 960.0,
+            "y_min": 292.0,
+            "x_max": 979.0,
+            "y_max": 305.0,
+            "class_id": "ball",
+            "confidence": 0.43610894680023193
+        },
+        {
+            "frame_id": 139,
+            "x_min": 822.0,
+            "y_min": 667.0,
+            "x_max": 975.0,
+            "y_max": 913.0,
+            "class_id": "player",
+            "confidence": 0.8676788210868835
+        },
+        {
+            "frame_id": 139,
+            "x_min": 860.0,
+            "y_min": 175.0,
+            "x_max": 919.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7161616683006287
+        },
+        {
+            "frame_id": 139,
+            "x_min": 959.0,
+            "y_min": 292.0,
+            "x_max": 978.0,
+            "y_max": 305.0,
+            "class_id": "ball",
+            "confidence": 0.4714277386665344
+        },
+        {
+            "frame_id": 140,
+            "x_min": 822.0,
+            "y_min": 668.0,
+            "x_max": 977.0,
+            "y_max": 913.0,
+            "class_id": "player",
+            "confidence": 0.8717829585075378
+        },
+        {
+            "frame_id": 140,
+            "x_min": 860.0,
+            "y_min": 174.0,
+            "x_max": 920.0,
+            "y_max": 291.0,
+            "class_id": "player",
+            "confidence": 0.7125228047370911
+        },
+        {
+            "frame_id": 140,
+            "x_min": 957.0,
+            "y_min": 293.0,
+            "x_max": 976.0,
+            "y_max": 305.0,
+            "class_id": "ball",
+            "confidence": 0.48703914880752563
+        },
+        {
+            "frame_id": 141,
+            "x_min": 822.0,
+            "y_min": 669.0,
+            "x_max": 978.0,
+            "y_max": 914.0,
+            "class_id": "player",
+            "confidence": 0.8655670881271362
+        },
+        {
+            "frame_id": 141,
+            "x_min": 859.0,
+            "y_min": 173.0,
+            "x_max": 920.0,
+            "y_max": 290.0,
+            "class_id": "player",
+            "confidence": 0.7041390538215637
+        },
+        {
+            "frame_id": 141,
+            "x_min": 955.0,
+            "y_min": 294.0,
+            "x_max": 975.0,
+            "y_max": 306.0,
+            "class_id": "ball",
+            "confidence": 0.4495275020599365
+        },
+        {
+            "frame_id": 142,
+            "x_min": 821.0,
+            "y_min": 669.0,
+            "x_max": 980.0,
+            "y_max": 914.0,
+            "class_id": "player",
+            "confidence": 0.8590512275695801
+        },
+        {
+            "frame_id": 142,
+            "x_min": 858.0,
+            "y_min": 172.0,
+            "x_max": 920.0,
+            "y_max": 289.0,
+            "class_id": "player",
+            "confidence": 0.7078455686569214
+        },
+        {
+            "frame_id": 143,
+            "x_min": 821.0,
+            "y_min": 668.0,
+            "x_max": 982.0,
+            "y_max": 914.0,
+            "class_id": "player",
+            "confidence": 0.8584460616111755
+        },
+        {
+            "frame_id": 143,
+            "x_min": 857.0,
+            "y_min": 171.0,
+            "x_max": 919.0,
+            "y_max": 286.0,
+            "class_id": "player",
+            "confidence": 0.7108511924743652
+        },
+        {
+            "frame_id": 144,
+            "x_min": 820.0,
+            "y_min": 667.0,
+            "x_max": 985.0,
+            "y_max": 915.0,
+            "class_id": "player",
+            "confidence": 0.846405565738678
+        },
+        {
+            "frame_id": 144,
+            "x_min": 856.0,
+            "y_min": 170.0,
+            "x_max": 920.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7348718047142029
+        },
+        {
+            "frame_id": 145,
+            "x_min": 819.0,
+            "y_min": 666.0,
+            "x_max": 989.0,
+            "y_max": 915.0,
+            "class_id": "player",
+            "confidence": 0.8399360179901123
+        },
+        {
+            "frame_id": 145,
+            "x_min": 855.0,
+            "y_min": 170.0,
+            "x_max": 920.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7306714057922363
+        },
+        {
+            "frame_id": 146,
+            "x_min": 819.0,
+            "y_min": 667.0,
+            "x_max": 990.0,
+            "y_max": 916.0,
+            "class_id": "player",
+            "confidence": 0.8388713598251343
+        },
+        {
+            "frame_id": 146,
+            "x_min": 854.0,
+            "y_min": 170.0,
+            "x_max": 920.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.7308312058448792
+        },
+        {
+            "frame_id": 147,
+            "x_min": 818.0,
+            "y_min": 666.0,
+            "x_max": 992.0,
+            "y_max": 917.0,
+            "class_id": "player",
+            "confidence": 0.8447660803794861
+        },
+        {
+            "frame_id": 147,
+            "x_min": 854.0,
+            "y_min": 169.0,
+            "x_max": 920.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7319371104240417
+        },
+        {
+            "frame_id": 148,
+            "x_min": 819.0,
+            "y_min": 666.0,
+            "x_max": 994.0,
+            "y_max": 918.0,
+            "class_id": "player",
+            "confidence": 0.848865807056427
+        },
+        {
+            "frame_id": 148,
+            "x_min": 855.0,
+            "y_min": 168.0,
+            "x_max": 923.0,
+            "y_max": 283.0,
+            "class_id": "player",
+            "confidence": 0.7282037138938904
+        },
+        {
+            "frame_id": 148,
+            "x_min": 945.0,
+            "y_min": 311.0,
+            "x_max": 962.0,
+            "y_max": 322.0,
+            "class_id": "ball",
+            "confidence": 0.40085768699645996
+        },
+        {
+            "frame_id": 149,
+            "x_min": 821.0,
+            "y_min": 667.0,
+            "x_max": 995.0,
+            "y_max": 919.0,
+            "class_id": "player",
+            "confidence": 0.8556509017944336
+        },
+        {
+            "frame_id": 149,
+            "x_min": 851.0,
+            "y_min": 168.0,
+            "x_max": 920.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7482860088348389
+        },
+        {
+            "frame_id": 149,
+            "x_min": 944.0,
+            "y_min": 313.0,
+            "x_max": 961.0,
+            "y_max": 323.0,
+            "class_id": "ball",
+            "confidence": 0.5061421990394592
+        },
+        {
+            "frame_id": 150,
+            "x_min": 822.0,
+            "y_min": 671.0,
+            "x_max": 998.0,
+            "y_max": 923.0,
+            "class_id": "player",
+            "confidence": 0.8632963299751282
+        },
+        {
+            "frame_id": 150,
+            "x_min": 850.0,
+            "y_min": 167.0,
+            "x_max": 920.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7392956018447876
+        },
+        {
+            "frame_id": 150,
+            "x_min": 943.0,
+            "y_min": 305.0,
+            "x_max": 960.0,
+            "y_max": 322.0,
+            "class_id": "ball",
+            "confidence": 0.5345035791397095
+        },
+        {
+            "frame_id": 151,
+            "x_min": 826.0,
+            "y_min": 671.0,
+            "x_max": 1001.0,
+            "y_max": 926.0,
+            "class_id": "player",
+            "confidence": 0.8692243695259094
+        },
+        {
+            "frame_id": 151,
+            "x_min": 850.0,
+            "y_min": 167.0,
+            "x_max": 920.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7409620881080627
+        },
+        {
+            "frame_id": 151,
+            "x_min": 942.0,
+            "y_min": 296.0,
+            "x_max": 961.0,
+            "y_max": 312.0,
+            "class_id": "ball",
+            "confidence": 0.49865925312042236
+        },
+        {
+            "frame_id": 152,
+            "x_min": 828.0,
+            "y_min": 673.0,
+            "x_max": 1004.0,
+            "y_max": 929.0,
+            "class_id": "player",
+            "confidence": 0.8695197105407715
+        },
+        {
+            "frame_id": 152,
+            "x_min": 851.0,
+            "y_min": 167.0,
+            "x_max": 919.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7331681847572327
+        },
+        {
+            "frame_id": 153,
+            "x_min": 831.0,
+            "y_min": 676.0,
+            "x_max": 1004.0,
+            "y_max": 933.0,
+            "class_id": "player",
+            "confidence": 0.8742300271987915
+        },
+        {
+            "frame_id": 153,
+            "x_min": 855.0,
+            "y_min": 167.0,
+            "x_max": 920.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.7380768656730652
+        },
+        {
+            "frame_id": 154,
+            "x_min": 833.0,
+            "y_min": 680.0,
+            "x_max": 1005.0,
+            "y_max": 936.0,
+            "class_id": "player",
+            "confidence": 0.8707830309867859
+        },
+        {
+            "frame_id": 154,
+            "x_min": 852.0,
+            "y_min": 168.0,
+            "x_max": 918.0,
+            "y_max": 285.0,
+            "class_id": "player",
+            "confidence": 0.734965980052948
+        },
+        {
+            "frame_id": 154,
+            "x_min": 942.0,
+            "y_min": 268.0,
+            "x_max": 960.0,
+            "y_max": 286.0,
+            "class_id": "ball",
+            "confidence": 0.4846438765525818
+        },
+        {
+            "frame_id": 155,
+            "x_min": 836.0,
+            "y_min": 684.0,
+            "x_max": 1004.0,
+            "y_max": 938.0,
+            "class_id": "player",
+            "confidence": 0.8691897988319397
+        },
+        {
+            "frame_id": 155,
+            "x_min": 852.0,
+            "y_min": 169.0,
+            "x_max": 917.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7338513731956482
+        },
+        {
+            "frame_id": 155,
+            "x_min": 939.0,
+            "y_min": 261.0,
+            "x_max": 958.0,
+            "y_max": 273.0,
+            "class_id": "ball",
+            "confidence": 0.5576766729354858
+        },
+        {
+            "frame_id": 156,
+            "x_min": 837.0,
+            "y_min": 686.0,
+            "x_max": 1004.0,
+            "y_max": 939.0,
+            "class_id": "player",
+            "confidence": 0.866001307964325
+        },
+        {
+            "frame_id": 156,
+            "x_min": 853.0,
+            "y_min": 170.0,
+            "x_max": 917.0,
+            "y_max": 284.0,
+            "class_id": "player",
+            "confidence": 0.7273234128952026
+        },
+        {
+            "frame_id": 157,
+            "x_min": 839.0,
+            "y_min": 686.0,
+            "x_max": 1004.0,
+            "y_max": 939.0,
+            "class_id": "player",
+            "confidence": 0.8637961745262146
+        },
+        {
+            "frame_id": 157,
+            "x_min": 853.0,
+            "y_min": 169.0,
+            "x_max": 919.0,
+            "y_max": 283.0,
+            "class_id": "player",
+            "confidence": 0.7274833917617798
+        },
+        {
+            "frame_id": 158,
+            "x_min": 840.0,
+            "y_min": 686.0,
+            "x_max": 1004.0,
+            "y_max": 940.0,
+            "class_id": "player",
+            "confidence": 0.8605188727378845
+        },
+        {
+            "frame_id": 158,
+            "x_min": 853.0,
+            "y_min": 167.0,
+            "x_max": 918.0,
+            "y_max": 283.0,
+            "class_id": "player",
+            "confidence": 0.7279366850852966
+        },
+        {
+            "frame_id": 159,
+            "x_min": 841.0,
+            "y_min": 686.0,
+            "x_max": 1004.0,
+            "y_max": 940.0,
+            "class_id": "player",
+            "confidence": 0.8616335391998291
+        },
+        {
+            "frame_id": 159,
+            "x_min": 853.0,
+            "y_min": 168.0,
+            "x_max": 917.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.731768786907196
+        },
+        {
+            "frame_id": 159,
+            "x_min": 936.0,
+            "y_min": 230.0,
+            "x_max": 952.0,
+            "y_max": 242.0,
+            "class_id": "ball",
+            "confidence": 0.42004889249801636
+        },
+        {
+            "frame_id": 160,
+            "x_min": 841.0,
+            "y_min": 685.0,
+            "x_max": 1004.0,
+            "y_max": 940.0,
+            "class_id": "player",
+            "confidence": 0.8609833121299744
+        },
+        {
+            "frame_id": 160,
+            "x_min": 851.0,
+            "y_min": 167.0,
+            "x_max": 915.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.7041374444961548
+        },
+        {
+            "frame_id": 161,
+            "x_min": 840.0,
+            "y_min": 684.0,
+            "x_max": 1004.0,
+            "y_max": 940.0,
+            "class_id": "player",
+            "confidence": 0.8590798377990723
+        },
+        {
+            "frame_id": 161,
+            "x_min": 851.0,
+            "y_min": 166.0,
+            "x_max": 917.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.7120683193206787
+        },
+        {
+            "frame_id": 162,
+            "x_min": 837.0,
+            "y_min": 682.0,
+            "x_max": 1004.0,
+            "y_max": 940.0,
+            "class_id": "player",
+            "confidence": 0.8553043603897095
+        },
+        {
+            "frame_id": 162,
+            "x_min": 853.0,
+            "y_min": 165.0,
+            "x_max": 919.0,
+            "y_max": 282.0,
+            "class_id": "player",
+            "confidence": 0.7224571108818054
+        },
+        {
+            "frame_id": 163,
+            "x_min": 837.0,
+            "y_min": 680.0,
+            "x_max": 1005.0,
+            "y_max": 940.0,
+            "class_id": "player",
+            "confidence": 0.8531416058540344
+        },
+        {
+            "frame_id": 163,
+            "x_min": 850.0,
+            "y_min": 163.0,
+            "x_max": 920.0,
+            "y_max": 281.0,
+            "class_id": "player",
+            "confidence": 0.7294875383377075
+        },
+        {
+            "frame_id": 164,
+            "x_min": 834.0,
+            "y_min": 679.0,
+            "x_max": 1005.0,
+            "y_max": 942.0,
+            "class_id": "player",
+            "confidence": 0.845094621181488
+        },
+        {
+            "frame_id": 164,
+            "x_min": 849.0,
+            "y_min": 161.0,
+            "x_max": 924.0,
+            "y_max": 279.0,
+            "class_id": "player",
+            "confidence": 0.7469221353530884
+        },
+        {
+            "frame_id": 165,
+            "x_min": 835.0,
+            "y_min": 678.0,
+            "x_max": 1005.0,
+            "y_max": 942.0,
+            "class_id": "player",
+            "confidence": 0.846551239490509
+        },
+        {
+            "frame_id": 165,
+            "x_min": 849.0,
+            "y_min": 159.0,
+            "x_max": 930.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7335625886917114
+        },
+        {
+            "frame_id": 166,
+            "x_min": 833.0,
+            "y_min": 678.0,
+            "x_max": 1006.0,
+            "y_max": 943.0,
+            "class_id": "player",
+            "confidence": 0.8534134030342102
+        },
+        {
+            "frame_id": 166,
+            "x_min": 848.0,
+            "y_min": 159.0,
+            "x_max": 937.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.741722583770752
+        },
+        {
+            "frame_id": 167,
+            "x_min": 832.0,
+            "y_min": 678.0,
+            "x_max": 1007.0,
+            "y_max": 944.0,
+            "class_id": "player",
+            "confidence": 0.8517919182777405
+        },
+        {
+            "frame_id": 167,
+            "x_min": 848.0,
+            "y_min": 159.0,
+            "x_max": 913.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.615618109703064
+        },
+        {
+            "frame_id": 168,
+            "x_min": 830.0,
+            "y_min": 679.0,
+            "x_max": 1009.0,
+            "y_max": 948.0,
+            "class_id": "player",
+            "confidence": 0.8332026600837708
+        },
+        {
+            "frame_id": 168,
+            "x_min": 848.0,
+            "y_min": 159.0,
+            "x_max": 916.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7043344974517822
+        },
+        {
+            "frame_id": 169,
+            "x_min": 829.0,
+            "y_min": 679.0,
+            "x_max": 1009.0,
+            "y_max": 949.0,
+            "class_id": "player",
+            "confidence": 0.8339135050773621
+        },
+        {
+            "frame_id": 169,
+            "x_min": 847.0,
+            "y_min": 158.0,
+            "x_max": 900.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7382288575172424
+        },
+        {
+            "frame_id": 170,
+            "x_min": 828.0,
+            "y_min": 680.0,
+            "x_max": 1012.0,
+            "y_max": 951.0,
+            "class_id": "player",
+            "confidence": 0.8355032205581665
+        },
+        {
+            "frame_id": 170,
+            "x_min": 846.0,
+            "y_min": 157.0,
+            "x_max": 899.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7402797937393188
+        },
+        {
+            "frame_id": 170,
+            "x_min": 914.0,
+            "y_min": 199.0,
+            "x_max": 935.0,
+            "y_max": 211.0,
+            "class_id": "ball",
+            "confidence": 0.4327927231788635
+        },
+        {
+            "frame_id": 171,
+            "x_min": 827.0,
+            "y_min": 682.0,
+            "x_max": 1013.0,
+            "y_max": 952.0,
+            "class_id": "player",
+            "confidence": 0.8508610129356384
+        },
+        {
+            "frame_id": 171,
+            "x_min": 845.0,
+            "y_min": 154.0,
+            "x_max": 900.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7229143977165222
+        },
+        {
+            "frame_id": 171,
+            "x_min": 912.0,
+            "y_min": 202.0,
+            "x_max": 928.0,
+            "y_max": 214.0,
+            "class_id": "ball",
+            "confidence": 0.4639323353767395
+        },
+        {
+            "frame_id": 172,
+            "x_min": 826.0,
+            "y_min": 683.0,
+            "x_max": 1015.0,
+            "y_max": 954.0,
+            "class_id": "player",
+            "confidence": 0.8537007570266724
+        },
+        {
+            "frame_id": 172,
+            "x_min": 844.0,
+            "y_min": 154.0,
+            "x_max": 900.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.6944845914840698
+        },
+        {
+            "frame_id": 173,
+            "x_min": 827.0,
+            "y_min": 685.0,
+            "x_max": 1016.0,
+            "y_max": 956.0,
+            "class_id": "player",
+            "confidence": 0.8486646413803101
+        },
+        {
+            "frame_id": 173,
+            "x_min": 845.0,
+            "y_min": 159.0,
+            "x_max": 901.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.6609941720962524
+        },
+        {
+            "frame_id": 174,
+            "x_min": 827.0,
+            "y_min": 693.0,
+            "x_max": 1018.0,
+            "y_max": 957.0,
+            "class_id": "player",
+            "confidence": 0.8493920564651489
+        },
+        {
+            "frame_id": 174,
+            "x_min": 844.0,
+            "y_min": 158.0,
+            "x_max": 901.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.6265832781791687
+        },
+        {
+            "frame_id": 174,
+            "x_min": 887.0,
+            "y_min": 215.0,
+            "x_max": 909.0,
+            "y_max": 233.0,
+            "class_id": "ball",
+            "confidence": 0.5810821056365967
+        },
+        {
+            "frame_id": 175,
+            "x_min": 825.0,
+            "y_min": 695.0,
+            "x_max": 1019.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.8662680387496948
+        },
+        {
+            "frame_id": 175,
+            "x_min": 843.0,
+            "y_min": 156.0,
+            "x_max": 901.0,
+            "y_max": 257.0,
+            "class_id": "player",
+            "confidence": 0.622334897518158
+        },
+        {
+            "frame_id": 176,
+            "x_min": 825.0,
+            "y_min": 699.0,
+            "x_max": 1020.0,
+            "y_max": 964.0,
+            "class_id": "player",
+            "confidence": 0.8730587959289551
+        },
+        {
+            "frame_id": 176,
+            "x_min": 842.0,
+            "y_min": 154.0,
+            "x_max": 905.0,
+            "y_max": 257.0,
+            "class_id": "player",
+            "confidence": 0.7084296941757202
+        },
+        {
+            "frame_id": 177,
+            "x_min": 823.0,
+            "y_min": 704.0,
+            "x_max": 1020.0,
+            "y_max": 966.0,
+            "class_id": "player",
+            "confidence": 0.8700721859931946
+        },
+        {
+            "frame_id": 177,
+            "x_min": 843.0,
+            "y_min": 150.0,
+            "x_max": 902.0,
+            "y_max": 257.0,
+            "class_id": "player",
+            "confidence": 0.7174936532974243
+        },
+        {
+            "frame_id": 178,
+            "x_min": 823.0,
+            "y_min": 708.0,
+            "x_max": 1020.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8609330654144287
+        },
+        {
+            "frame_id": 178,
+            "x_min": 843.0,
+            "y_min": 150.0,
+            "x_max": 907.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.735466480255127
+        },
+        {
+            "frame_id": 179,
+            "x_min": 825.0,
+            "y_min": 712.0,
+            "x_max": 1019.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8628996014595032
+        },
+        {
+            "frame_id": 179,
+            "x_min": 843.0,
+            "y_min": 148.0,
+            "x_max": 908.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.7359125018119812
+        },
+        {
+            "frame_id": 180,
+            "x_min": 826.0,
+            "y_min": 714.0,
+            "x_max": 1020.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8674460053443909
+        },
+        {
+            "frame_id": 180,
+            "x_min": 842.0,
+            "y_min": 151.0,
+            "x_max": 904.0,
+            "y_max": 258.0,
+            "class_id": "player",
+            "confidence": 0.726662814617157
+        },
+        {
+            "frame_id": 181,
+            "x_min": 826.0,
+            "y_min": 717.0,
+            "x_max": 1019.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8728373646736145
+        },
+        {
+            "frame_id": 181,
+            "x_min": 837.0,
+            "y_min": 153.0,
+            "x_max": 911.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.7804516553878784
+        },
+        {
+            "frame_id": 182,
+            "x_min": 825.0,
+            "y_min": 719.0,
+            "x_max": 1020.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8737693428993225
+        },
+        {
+            "frame_id": 182,
+            "x_min": 835.0,
+            "y_min": 149.0,
+            "x_max": 913.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7702982425689697
+        },
+        {
+            "frame_id": 183,
+            "x_min": 824.0,
+            "y_min": 720.0,
+            "x_max": 1021.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8737563490867615
+        },
+        {
+            "frame_id": 183,
+            "x_min": 836.0,
+            "y_min": 154.0,
+            "x_max": 915.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.7806134819984436
+        },
+        {
+            "frame_id": 184,
+            "x_min": 826.0,
+            "y_min": 719.0,
+            "x_max": 1021.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.868710458278656
+        },
+        {
+            "frame_id": 184,
+            "x_min": 835.0,
+            "y_min": 157.0,
+            "x_max": 916.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7924292683601379
+        },
+        {
+            "frame_id": 184,
+            "x_min": 843.0,
+            "y_min": 288.0,
+            "x_max": 867.0,
+            "y_max": 306.0,
+            "class_id": "ball",
+            "confidence": 0.4444856643676758
+        },
+        {
+            "frame_id": 185,
+            "x_min": 826.0,
+            "y_min": 718.0,
+            "x_max": 1020.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8691648244857788
+        },
+        {
+            "frame_id": 185,
+            "x_min": 835.0,
+            "y_min": 154.0,
+            "x_max": 917.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7892211675643921
+        },
+        {
+            "frame_id": 186,
+            "x_min": 825.0,
+            "y_min": 716.0,
+            "x_max": 1018.0,
+            "y_max": 968.0,
+            "class_id": "player",
+            "confidence": 0.8713105916976929
+        },
+        {
+            "frame_id": 186,
+            "x_min": 834.0,
+            "y_min": 153.0,
+            "x_max": 916.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.7835153341293335
+        },
+        {
+            "frame_id": 186,
+            "x_min": 832.0,
+            "y_min": 305.0,
+            "x_max": 853.0,
+            "y_max": 325.0,
+            "class_id": "ball",
+            "confidence": 0.591865599155426
+        },
+        {
+            "frame_id": 187,
+            "x_min": 824.0,
+            "y_min": 716.0,
+            "x_max": 1017.0,
+            "y_max": 968.0,
+            "class_id": "player",
+            "confidence": 0.871317982673645
+        },
+        {
+            "frame_id": 187,
+            "x_min": 834.0,
+            "y_min": 154.0,
+            "x_max": 914.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.7962387800216675
+        },
+        {
+            "frame_id": 188,
+            "x_min": 823.0,
+            "y_min": 715.0,
+            "x_max": 1013.0,
+            "y_max": 968.0,
+            "class_id": "player",
+            "confidence": 0.8607311844825745
+        },
+        {
+            "frame_id": 188,
+            "x_min": 834.0,
+            "y_min": 160.0,
+            "x_max": 913.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.8047631978988647
+        },
+        {
+            "frame_id": 188,
+            "x_min": 823.0,
+            "y_min": 328.0,
+            "x_max": 847.0,
+            "y_max": 350.0,
+            "class_id": "ball",
+            "confidence": 0.5802707672119141
+        },
+        {
+            "frame_id": 189,
+            "x_min": 820.0,
+            "y_min": 714.0,
+            "x_max": 1004.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8371986150741577
+        },
+        {
+            "frame_id": 189,
+            "x_min": 833.0,
+            "y_min": 160.0,
+            "x_max": 911.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.8021293878555298
+        },
+        {
+            "frame_id": 189,
+            "x_min": 816.0,
+            "y_min": 340.0,
+            "x_max": 837.0,
+            "y_max": 363.0,
+            "class_id": "ball",
+            "confidence": 0.561718225479126
+        },
+        {
+            "frame_id": 190,
+            "x_min": 817.0,
+            "y_min": 714.0,
+            "x_max": 993.0,
+            "y_max": 966.0,
+            "class_id": "player",
+            "confidence": 0.8511180281639099
+        },
+        {
+            "frame_id": 190,
+            "x_min": 834.0,
+            "y_min": 162.0,
+            "x_max": 909.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.8047614693641663
+        },
+        {
+            "frame_id": 190,
+            "x_min": 812.0,
+            "y_min": 353.0,
+            "x_max": 834.0,
+            "y_max": 373.0,
+            "class_id": "ball",
+            "confidence": 0.6565359234809875
+        },
+        {
+            "frame_id": 191,
+            "x_min": 814.0,
+            "y_min": 712.0,
+            "x_max": 977.0,
+            "y_max": 967.0,
+            "class_id": "player",
+            "confidence": 0.8479938507080078
+        },
+        {
+            "frame_id": 191,
+            "x_min": 834.0,
+            "y_min": 162.0,
+            "x_max": 905.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.7882252335548401
+        },
+        {
+            "frame_id": 191,
+            "x_min": 806.0,
+            "y_min": 361.0,
+            "x_max": 831.0,
+            "y_max": 385.0,
+            "class_id": "ball",
+            "confidence": 0.4368157386779785
+        },
+        {
+            "frame_id": 192,
+            "x_min": 805.0,
+            "y_min": 711.0,
+            "x_max": 963.0,
+            "y_max": 969.0,
+            "class_id": "player",
+            "confidence": 0.8113051652908325
+        },
+        {
+            "frame_id": 192,
+            "x_min": 836.0,
+            "y_min": 162.0,
+            "x_max": 897.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.7377691864967346
+        },
+        {
+            "frame_id": 192,
+            "x_min": 800.0,
+            "y_min": 379.0,
+            "x_max": 823.0,
+            "y_max": 398.0,
+            "class_id": "ball",
+            "confidence": 0.40385109186172485
+        },
+        {
+            "frame_id": 193,
+            "x_min": 798.0,
+            "y_min": 707.0,
+            "x_max": 943.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.7877715826034546
+        },
+        {
+            "frame_id": 193,
+            "x_min": 836.0,
+            "y_min": 162.0,
+            "x_max": 894.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.7414844632148743
+        },
+        {
+            "frame_id": 194,
+            "x_min": 794.0,
+            "y_min": 705.0,
+            "x_max": 931.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.7590736150741577
+        },
+        {
+            "frame_id": 194,
+            "x_min": 836.0,
+            "y_min": 160.0,
+            "x_max": 895.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.7091639637947083
+        },
+        {
+            "frame_id": 195,
+            "x_min": 789.0,
+            "y_min": 704.0,
+            "x_max": 925.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.7859031558036804
+        },
+        {
+            "frame_id": 195,
+            "x_min": 837.0,
+            "y_min": 162.0,
+            "x_max": 896.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7327487468719482
+        },
+        {
+            "frame_id": 195,
+            "x_min": 778.0,
+            "y_min": 421.0,
+            "x_max": 806.0,
+            "y_max": 449.0,
+            "class_id": "ball",
+            "confidence": 0.5093792080879211
+        },
+        {
+            "frame_id": 196,
+            "x_min": 784.0,
+            "y_min": 702.0,
+            "x_max": 920.0,
+            "y_max": 964.0,
+            "class_id": "player",
+            "confidence": 0.7702403664588928
+        },
+        {
+            "frame_id": 196,
+            "x_min": 831.0,
+            "y_min": 157.0,
+            "x_max": 897.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.7322742938995361
+        },
+        {
+            "frame_id": 196,
+            "x_min": 776.0,
+            "y_min": 437.0,
+            "x_max": 800.0,
+            "y_max": 462.0,
+            "class_id": "ball",
+            "confidence": 0.5872964859008789
+        },
+        {
+            "frame_id": 197,
+            "x_min": 779.0,
+            "y_min": 702.0,
+            "x_max": 916.0,
+            "y_max": 968.0,
+            "class_id": "player",
+            "confidence": 0.7468200325965881
+        },
+        {
+            "frame_id": 197,
+            "x_min": 833.0,
+            "y_min": 150.0,
+            "x_max": 899.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7297312617301941
+        },
+        {
+            "frame_id": 197,
+            "x_min": 771.0,
+            "y_min": 452.0,
+            "x_max": 799.0,
+            "y_max": 476.0,
+            "class_id": "ball",
+            "confidence": 0.5437683463096619
+        },
+        {
+            "frame_id": 198,
+            "x_min": 774.0,
+            "y_min": 708.0,
+            "x_max": 916.0,
+            "y_max": 976.0,
+            "class_id": "player",
+            "confidence": 0.82146817445755
+        },
+        {
+            "frame_id": 198,
+            "x_min": 831.0,
+            "y_min": 152.0,
+            "x_max": 900.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7190148234367371
+        },
+        {
+            "frame_id": 198,
+            "x_min": 765.0,
+            "y_min": 472.0,
+            "x_max": 787.0,
+            "y_max": 500.0,
+            "class_id": "ball",
+            "confidence": 0.5263867974281311
+        },
+        {
+            "frame_id": 199,
+            "x_min": 770.0,
+            "y_min": 707.0,
+            "x_max": 916.0,
+            "y_max": 976.0,
+            "class_id": "player",
+            "confidence": 0.8430389165878296
+        },
+        {
+            "frame_id": 199,
+            "x_min": 839.0,
+            "y_min": 156.0,
+            "x_max": 902.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7300375699996948
+        },
+        {
+            "frame_id": 199,
+            "x_min": 760.0,
+            "y_min": 483.0,
+            "x_max": 784.0,
+            "y_max": 514.0,
+            "class_id": "ball",
+            "confidence": 0.6448967456817627
+        },
+        {
+            "frame_id": 200,
+            "x_min": 762.0,
+            "y_min": 705.0,
+            "x_max": 915.0,
+            "y_max": 977.0,
+            "class_id": "player",
+            "confidence": 0.8085505962371826
+        },
+        {
+            "frame_id": 200,
+            "x_min": 841.0,
+            "y_min": 157.0,
+            "x_max": 904.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7273166179656982
+        },
+        {
+            "frame_id": 200,
+            "x_min": 752.0,
+            "y_min": 503.0,
+            "x_max": 777.0,
+            "y_max": 534.0,
+            "class_id": "ball",
+            "confidence": 0.6013588309288025
+        },
+        {
+            "frame_id": 201,
+            "x_min": 754.0,
+            "y_min": 705.0,
+            "x_max": 915.0,
+            "y_max": 976.0,
+            "class_id": "player",
+            "confidence": 0.7588587403297424
+        },
+        {
+            "frame_id": 201,
+            "x_min": 848.0,
+            "y_min": 158.0,
+            "x_max": 903.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7156373262405396
+        },
+        {
+            "frame_id": 201,
+            "x_min": 747.0,
+            "y_min": 521.0,
+            "x_max": 772.0,
+            "y_max": 553.0,
+            "class_id": "ball",
+            "confidence": 0.6284319162368774
+        },
+        {
+            "frame_id": 202,
+            "x_min": 748.0,
+            "y_min": 705.0,
+            "x_max": 913.0,
+            "y_max": 974.0,
+            "class_id": "player",
+            "confidence": 0.717648983001709
+        },
+        {
+            "frame_id": 202,
+            "x_min": 851.0,
+            "y_min": 160.0,
+            "x_max": 903.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.703902006149292
+        },
+        {
+            "frame_id": 203,
+            "x_min": 857.0,
+            "y_min": 160.0,
+            "x_max": 907.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.6913670301437378
+        },
+        {
+            "frame_id": 203,
+            "x_min": 735.0,
+            "y_min": 559.0,
+            "x_max": 761.0,
+            "y_max": 594.0,
+            "class_id": "ball",
+            "confidence": 0.6366540789604187
+        },
+        {
+            "frame_id": 203,
+            "x_min": 743.0,
+            "y_min": 704.0,
+            "x_max": 913.0,
+            "y_max": 971.0,
+            "class_id": "player",
+            "confidence": 0.6294218897819519
+        },
+        {
+            "frame_id": 204,
+            "x_min": 850.0,
+            "y_min": 158.0,
+            "x_max": 909.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7076715230941772
+        },
+        {
+            "frame_id": 204,
+            "x_min": 737.0,
+            "y_min": 693.0,
+            "x_max": 904.0,
+            "y_max": 963.0,
+            "class_id": "player",
+            "confidence": 0.6809366345405579
+        },
+        {
+            "frame_id": 204,
+            "x_min": 726.0,
+            "y_min": 583.0,
+            "x_max": 756.0,
+            "y_max": 620.0,
+            "class_id": "ball",
+            "confidence": 0.6178824305534363
+        },
+        {
+            "frame_id": 205,
+            "x_min": 732.0,
+            "y_min": 693.0,
+            "x_max": 901.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.7530161738395691
+        },
+        {
+            "frame_id": 205,
+            "x_min": 849.0,
+            "y_min": 158.0,
+            "x_max": 911.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7230060696601868
+        },
+        {
+            "frame_id": 205,
+            "x_min": 723.0,
+            "y_min": 603.0,
+            "x_max": 753.0,
+            "y_max": 635.0,
+            "class_id": "ball",
+            "confidence": 0.6249227523803711
+        },
+        {
+            "frame_id": 206,
+            "x_min": 725.0,
+            "y_min": 692.0,
+            "x_max": 891.0,
+            "y_max": 963.0,
+            "class_id": "player",
+            "confidence": 0.819695234298706
+        },
+        {
+            "frame_id": 206,
+            "x_min": 852.0,
+            "y_min": 157.0,
+            "x_max": 912.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7313791513442993
+        },
+        {
+            "frame_id": 206,
+            "x_min": 720.0,
+            "y_min": 629.0,
+            "x_max": 741.0,
+            "y_max": 647.0,
+            "class_id": "ball",
+            "confidence": 0.5985718369483948
+        },
+        {
+            "frame_id": 207,
+            "x_min": 719.0,
+            "y_min": 690.0,
+            "x_max": 881.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.8276879787445068
+        },
+        {
+            "frame_id": 207,
+            "x_min": 854.0,
+            "y_min": 158.0,
+            "x_max": 915.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7525089383125305
+        },
+        {
+            "frame_id": 207,
+            "x_min": 715.0,
+            "y_min": 630.0,
+            "x_max": 738.0,
+            "y_max": 644.0,
+            "class_id": "ball",
+            "confidence": 0.6032208204269409
+        },
+        {
+            "frame_id": 208,
+            "x_min": 715.0,
+            "y_min": 690.0,
+            "x_max": 871.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.8285357356071472
+        },
+        {
+            "frame_id": 208,
+            "x_min": 859.0,
+            "y_min": 163.0,
+            "x_max": 918.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7518830895423889
+        },
+        {
+            "frame_id": 209,
+            "x_min": 708.0,
+            "y_min": 689.0,
+            "x_max": 853.0,
+            "y_max": 960.0,
+            "class_id": "player",
+            "confidence": 0.8030614256858826
+        },
+        {
+            "frame_id": 209,
+            "x_min": 860.0,
+            "y_min": 159.0,
+            "x_max": 922.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7317566275596619
+        },
+        {
+            "frame_id": 209,
+            "x_min": 704.0,
+            "y_min": 630.0,
+            "x_max": 726.0,
+            "y_max": 645.0,
+            "class_id": "ball",
+            "confidence": 0.4600250720977783
+        },
+        {
+            "frame_id": 210,
+            "x_min": 706.0,
+            "y_min": 688.0,
+            "x_max": 842.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.7833032011985779
+        },
+        {
+            "frame_id": 210,
+            "x_min": 865.0,
+            "y_min": 159.0,
+            "x_max": 927.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7358118295669556
+        },
+        {
+            "frame_id": 210,
+            "x_min": 700.0,
+            "y_min": 631.0,
+            "x_max": 722.0,
+            "y_max": 646.0,
+            "class_id": "ball",
+            "confidence": 0.5980994701385498
+        },
+        {
+            "frame_id": 211,
+            "x_min": 866.0,
+            "y_min": 156.0,
+            "x_max": 931.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7629989981651306
+        },
+        {
+            "frame_id": 211,
+            "x_min": 702.0,
+            "y_min": 682.0,
+            "x_max": 835.0,
+            "y_max": 928.0,
+            "class_id": "player",
+            "confidence": 0.7506764531135559
+        },
+        {
+            "frame_id": 211,
+            "x_min": 696.0,
+            "y_min": 632.0,
+            "x_max": 718.0,
+            "y_max": 647.0,
+            "class_id": "ball",
+            "confidence": 0.5883679389953613
+        },
+        {
+            "frame_id": 212,
+            "x_min": 867.0,
+            "y_min": 157.0,
+            "x_max": 937.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.7801249623298645
+        },
+        {
+            "frame_id": 212,
+            "x_min": 695.0,
+            "y_min": 687.0,
+            "x_max": 838.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.7339837551116943
+        },
+        {
+            "frame_id": 212,
+            "x_min": 690.0,
+            "y_min": 632.0,
+            "x_max": 714.0,
+            "y_max": 648.0,
+            "class_id": "ball",
+            "confidence": 0.607891857624054
+        },
+        {
+            "frame_id": 213,
+            "x_min": 867.0,
+            "y_min": 158.0,
+            "x_max": 939.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7702417373657227
+        },
+        {
+            "frame_id": 213,
+            "x_min": 689.0,
+            "y_min": 687.0,
+            "x_max": 837.0,
+            "y_max": 960.0,
+            "class_id": "player",
+            "confidence": 0.7455481886863708
+        },
+        {
+            "frame_id": 214,
+            "x_min": 682.0,
+            "y_min": 685.0,
+            "x_max": 836.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.7554144263267517
+        },
+        {
+            "frame_id": 214,
+            "x_min": 867.0,
+            "y_min": 161.0,
+            "x_max": 944.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7527489066123962
+        },
+        {
+            "frame_id": 214,
+            "x_min": 680.0,
+            "y_min": 637.0,
+            "x_max": 703.0,
+            "y_max": 652.0,
+            "class_id": "ball",
+            "confidence": 0.5542327165603638
+        },
+        {
+            "frame_id": 215,
+            "x_min": 868.0,
+            "y_min": 162.0,
+            "x_max": 948.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7957892417907715
+        },
+        {
+            "frame_id": 215,
+            "x_min": 679.0,
+            "y_min": 684.0,
+            "x_max": 836.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.783665657043457
+        },
+        {
+            "frame_id": 215,
+            "x_min": 675.0,
+            "y_min": 642.0,
+            "x_max": 697.0,
+            "y_max": 657.0,
+            "class_id": "ball",
+            "confidence": 0.48850739002227783
+        },
+        {
+            "frame_id": 216,
+            "x_min": 869.0,
+            "y_min": 162.0,
+            "x_max": 949.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.813225269317627
+        },
+        {
+            "frame_id": 216,
+            "x_min": 674.0,
+            "y_min": 681.0,
+            "x_max": 832.0,
+            "y_max": 964.0,
+            "class_id": "player",
+            "confidence": 0.7894185781478882
+        },
+        {
+            "frame_id": 216,
+            "x_min": 669.0,
+            "y_min": 645.0,
+            "x_max": 693.0,
+            "y_max": 660.0,
+            "class_id": "ball",
+            "confidence": 0.6434888243675232
+        },
+        {
+            "frame_id": 217,
+            "x_min": 670.0,
+            "y_min": 681.0,
+            "x_max": 830.0,
+            "y_max": 965.0,
+            "class_id": "player",
+            "confidence": 0.8153350353240967
+        },
+        {
+            "frame_id": 217,
+            "x_min": 870.0,
+            "y_min": 161.0,
+            "x_max": 951.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.8053804039955139
+        },
+        {
+            "frame_id": 217,
+            "x_min": 666.0,
+            "y_min": 650.0,
+            "x_max": 688.0,
+            "y_max": 666.0,
+            "class_id": "ball",
+            "confidence": 0.6380661129951477
+        },
+        {
+            "frame_id": 218,
+            "x_min": 870.0,
+            "y_min": 160.0,
+            "x_max": 952.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.8020103573799133
+        },
+        {
+            "frame_id": 218,
+            "x_min": 665.0,
+            "y_min": 680.0,
+            "x_max": 828.0,
+            "y_max": 965.0,
+            "class_id": "player",
+            "confidence": 0.7704609036445618
+        },
+        {
+            "frame_id": 219,
+            "x_min": 871.0,
+            "y_min": 161.0,
+            "x_max": 955.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7903949618339539
+        },
+        {
+            "frame_id": 219,
+            "x_min": 659.0,
+            "y_min": 682.0,
+            "x_max": 821.0,
+            "y_max": 964.0,
+            "class_id": "player",
+            "confidence": 0.7491493821144104
+        },
+        {
+            "frame_id": 219,
+            "x_min": 655.0,
+            "y_min": 660.0,
+            "x_max": 676.0,
+            "y_max": 675.0,
+            "class_id": "ball",
+            "confidence": 0.5946498513221741
+        },
+        {
+            "frame_id": 220,
+            "x_min": 872.0,
+            "y_min": 161.0,
+            "x_max": 955.0,
+            "y_max": 267.0,
+            "class_id": "player",
+            "confidence": 0.7926108241081238
+        },
+        {
+            "frame_id": 220,
+            "x_min": 652.0,
+            "y_min": 683.0,
+            "x_max": 815.0,
+            "y_max": 963.0,
+            "class_id": "player",
+            "confidence": 0.7537234425544739
+        },
+        {
+            "frame_id": 220,
+            "x_min": 649.0,
+            "y_min": 666.0,
+            "x_max": 674.0,
+            "y_max": 682.0,
+            "class_id": "ball",
+            "confidence": 0.5726786851882935
+        },
+        {
+            "frame_id": 221,
+            "x_min": 876.0,
+            "y_min": 161.0,
+            "x_max": 956.0,
+            "y_max": 267.0,
+            "class_id": "player",
+            "confidence": 0.79731285572052
+        },
+        {
+            "frame_id": 221,
+            "x_min": 649.0,
+            "y_min": 686.0,
+            "x_max": 810.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.7271406650543213
+        },
+        {
+            "frame_id": 221,
+            "x_min": 644.0,
+            "y_min": 672.0,
+            "x_max": 669.0,
+            "y_max": 689.0,
+            "class_id": "ball",
+            "confidence": 0.6471911072731018
+        },
+        {
+            "frame_id": 222,
+            "x_min": 877.0,
+            "y_min": 161.0,
+            "x_max": 956.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7955743670463562
+        },
+        {
+            "frame_id": 222,
+            "x_min": 646.0,
+            "y_min": 687.0,
+            "x_max": 809.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.6800528764724731
+        },
+        {
+            "frame_id": 222,
+            "x_min": 637.0,
+            "y_min": 680.0,
+            "x_max": 661.0,
+            "y_max": 698.0,
+            "class_id": "ball",
+            "confidence": 0.6227256655693054
+        },
+        {
+            "frame_id": 223,
+            "x_min": 880.0,
+            "y_min": 164.0,
+            "x_max": 960.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7853553295135498
+        },
+        {
+            "frame_id": 223,
+            "x_min": 643.0,
+            "y_min": 690.0,
+            "x_max": 809.0,
+            "y_max": 960.0,
+            "class_id": "player",
+            "confidence": 0.7438603639602661
+        },
+        {
+            "frame_id": 223,
+            "x_min": 632.0,
+            "y_min": 687.0,
+            "x_max": 656.0,
+            "y_max": 705.0,
+            "class_id": "ball",
+            "confidence": 0.5716127157211304
+        },
+        {
+            "frame_id": 224,
+            "x_min": 881.0,
+            "y_min": 164.0,
+            "x_max": 961.0,
+            "y_max": 267.0,
+            "class_id": "player",
+            "confidence": 0.786143958568573
+        },
+        {
+            "frame_id": 224,
+            "x_min": 635.0,
+            "y_min": 696.0,
+            "x_max": 807.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.6475043296813965
+        },
+        {
+            "frame_id": 224,
+            "x_min": 627.0,
+            "y_min": 695.0,
+            "x_max": 652.0,
+            "y_max": 715.0,
+            "class_id": "ball",
+            "confidence": 0.5720040798187256
+        },
+        {
+            "frame_id": 225,
+            "x_min": 883.0,
+            "y_min": 161.0,
+            "x_max": 961.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7911182641983032
+        },
+        {
+            "frame_id": 225,
+            "x_min": 630.0,
+            "y_min": 698.0,
+            "x_max": 805.0,
+            "y_max": 962.0,
+            "class_id": "player",
+            "confidence": 0.7080849409103394
+        },
+        {
+            "frame_id": 225,
+            "x_min": 622.0,
+            "y_min": 703.0,
+            "x_max": 646.0,
+            "y_max": 724.0,
+            "class_id": "ball",
+            "confidence": 0.5508348345756531
+        },
+        {
+            "frame_id": 226,
+            "x_min": 887.0,
+            "y_min": 158.0,
+            "x_max": 962.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7971868515014648
+        },
+        {
+            "frame_id": 226,
+            "x_min": 621.0,
+            "y_min": 699.0,
+            "x_max": 784.0,
+            "y_max": 953.0,
+            "class_id": "player",
+            "confidence": 0.7768069505691528
+        },
+        {
+            "frame_id": 226,
+            "x_min": 616.0,
+            "y_min": 713.0,
+            "x_max": 642.0,
+            "y_max": 733.0,
+            "class_id": "ball",
+            "confidence": 0.5042418837547302
+        },
+        {
+            "frame_id": 227,
+            "x_min": 611.0,
+            "y_min": 702.0,
+            "x_max": 797.0,
+            "y_max": 963.0,
+            "class_id": "player",
+            "confidence": 0.7897635698318481
+        },
+        {
+            "frame_id": 227,
+            "x_min": 890.0,
+            "y_min": 155.0,
+            "x_max": 962.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7790213823318481
+        },
+        {
+            "frame_id": 228,
+            "x_min": 605.0,
+            "y_min": 702.0,
+            "x_max": 795.0,
+            "y_max": 961.0,
+            "class_id": "player",
+            "confidence": 0.8092899918556213
+        },
+        {
+            "frame_id": 228,
+            "x_min": 893.0,
+            "y_min": 153.0,
+            "x_max": 961.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7550315856933594
+        },
+        {
+            "frame_id": 229,
+            "x_min": 594.0,
+            "y_min": 703.0,
+            "x_max": 790.0,
+            "y_max": 960.0,
+            "class_id": "player",
+            "confidence": 0.8333727717399597
+        },
+        {
+            "frame_id": 229,
+            "x_min": 897.0,
+            "y_min": 157.0,
+            "x_max": 959.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7540116906166077
+        },
+        {
+            "frame_id": 230,
+            "x_min": 572.0,
+            "y_min": 704.0,
+            "x_max": 792.0,
+            "y_max": 959.0,
+            "class_id": "player",
+            "confidence": 0.8657858967781067
+        },
+        {
+            "frame_id": 230,
+            "x_min": 901.0,
+            "y_min": 157.0,
+            "x_max": 959.0,
+            "y_max": 268.0,
+            "class_id": "player",
+            "confidence": 0.7092146873474121
+        },
+        {
+            "frame_id": 231,
+            "x_min": 552.0,
+            "y_min": 703.0,
+            "x_max": 784.0,
+            "y_max": 952.0,
+            "class_id": "player",
+            "confidence": 0.8495455980300903
+        },
+        {
+            "frame_id": 231,
+            "x_min": 904.0,
+            "y_min": 156.0,
+            "x_max": 959.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.7329905033111572
+        },
+        {
+            "frame_id": 232,
+            "x_min": 550.0,
+            "y_min": 706.0,
+            "x_max": 791.0,
+            "y_max": 956.0,
+            "class_id": "player",
+            "confidence": 0.8701310753822327
+        },
+        {
+            "frame_id": 232,
+            "x_min": 906.0,
+            "y_min": 154.0,
+            "x_max": 961.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.718453586101532
+        },
+        {
+            "frame_id": 233,
+            "x_min": 566.0,
+            "y_min": 702.0,
+            "x_max": 785.0,
+            "y_max": 954.0,
+            "class_id": "player",
+            "confidence": 0.8153895735740662
+        },
+        {
+            "frame_id": 233,
+            "x_min": 907.0,
+            "y_min": 153.0,
+            "x_max": 960.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.6988499164581299
+        },
+        {
+            "frame_id": 234,
+            "x_min": 601.0,
+            "y_min": 701.0,
+            "x_max": 784.0,
+            "y_max": 955.0,
+            "class_id": "player",
+            "confidence": 0.8437159657478333
+        },
+        {
+            "frame_id": 234,
+            "x_min": 908.0,
+            "y_min": 154.0,
+            "x_max": 962.0,
+            "y_max": 269.0,
+            "class_id": "player",
+            "confidence": 0.7065979242324829
+        },
+        {
+            "frame_id": 234,
+            "x_min": 594.0,
+            "y_min": 740.0,
+            "x_max": 625.0,
+            "y_max": 770.0,
+            "class_id": "ball",
+            "confidence": 0.4849947690963745
+        },
+        {
+            "frame_id": 235,
+            "x_min": 601.0,
+            "y_min": 701.0,
+            "x_max": 779.0,
+            "y_max": 950.0,
+            "class_id": "player",
+            "confidence": 0.8446450233459473
+        },
+        {
+            "frame_id": 235,
+            "x_min": 909.0,
+            "y_min": 154.0,
+            "x_max": 964.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7050622701644897
+        },
+        {
+            "frame_id": 236,
+            "x_min": 598.0,
+            "y_min": 689.0,
+            "x_max": 778.0,
+            "y_max": 949.0,
+            "class_id": "player",
+            "confidence": 0.845365047454834
+        },
+        {
+            "frame_id": 236,
+            "x_min": 910.0,
+            "y_min": 153.0,
+            "x_max": 967.0,
+            "y_max": 270.0,
+            "class_id": "player",
+            "confidence": 0.7156446576118469
+        },
+        {
+            "frame_id": 237,
+            "x_min": 596.0,
+            "y_min": 694.0,
+            "x_max": 780.0,
+            "y_max": 949.0,
+            "class_id": "player",
+            "confidence": 0.8291913270950317
+        },
+        {
+            "frame_id": 237,
+            "x_min": 909.0,
+            "y_min": 153.0,
+            "x_max": 969.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7255104184150696
+        },
+        {
+            "frame_id": 238,
+            "x_min": 593.0,
+            "y_min": 697.0,
+            "x_max": 779.0,
+            "y_max": 951.0,
+            "class_id": "player",
+            "confidence": 0.8337574601173401
+        },
+        {
+            "frame_id": 238,
+            "x_min": 910.0,
+            "y_min": 157.0,
+            "x_max": 974.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.7015674114227295
+        },
+        {
+            "frame_id": 238,
+            "x_min": 634.0,
+            "y_min": 640.0,
+            "x_max": 662.0,
+            "y_max": 673.0,
+            "class_id": "ball",
+            "confidence": 0.5920222401618958
+        },
+        {
+            "frame_id": 239,
+            "x_min": 589.0,
+            "y_min": 692.0,
+            "x_max": 778.0,
+            "y_max": 950.0,
+            "class_id": "player",
+            "confidence": 0.8377563953399658
+        },
+        {
+            "frame_id": 239,
+            "x_min": 911.0,
+            "y_min": 158.0,
+            "x_max": 974.0,
+            "y_max": 271.0,
+            "class_id": "player",
+            "confidence": 0.6850505471229553
+        },
+        {
+            "frame_id": 239,
+            "x_min": 645.0,
+            "y_min": 621.0,
+            "x_max": 670.0,
+            "y_max": 650.0,
+            "class_id": "ball",
+            "confidence": 0.5544085502624512
+        },
+        {
+            "frame_id": 240,
+            "x_min": 586.0,
+            "y_min": 689.0,
+            "x_max": 780.0,
+            "y_max": 946.0,
+            "class_id": "player",
+            "confidence": 0.8310190439224243
+        },
+        {
+            "frame_id": 240,
+            "x_min": 911.0,
+            "y_min": 153.0,
+            "x_max": 977.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.7293070554733276
+        },
+        {
+            "frame_id": 240,
+            "x_min": 653.0,
+            "y_min": 599.0,
+            "x_max": 677.0,
+            "y_max": 629.0,
+            "class_id": "ball",
+            "confidence": 0.6400241255760193
+        },
+        {
+            "frame_id": 241,
+            "x_min": 583.0,
+            "y_min": 683.0,
+            "x_max": 784.0,
+            "y_max": 934.0,
+            "class_id": "player",
+            "confidence": 0.7955992817878723
+        },
+        {
+            "frame_id": 241,
+            "x_min": 912.0,
+            "y_min": 152.0,
+            "x_max": 979.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7383390665054321
+        },
+        {
+            "frame_id": 241,
+            "x_min": 662.0,
+            "y_min": 577.0,
+            "x_max": 687.0,
+            "y_max": 607.0,
+            "class_id": "ball",
+            "confidence": 0.5627902150154114
+        },
+        {
+            "frame_id": 242,
+            "x_min": 582.0,
+            "y_min": 674.0,
+            "x_max": 774.0,
+            "y_max": 932.0,
+            "class_id": "player",
+            "confidence": 0.8121352195739746
+        },
+        {
+            "frame_id": 242,
+            "x_min": 913.0,
+            "y_min": 150.0,
+            "x_max": 982.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7587610483169556
+        },
+        {
+            "frame_id": 242,
+            "x_min": 669.0,
+            "y_min": 560.0,
+            "x_max": 693.0,
+            "y_max": 588.0,
+            "class_id": "ball",
+            "confidence": 0.6726492643356323
+        },
+        {
+            "frame_id": 243,
+            "x_min": 580.0,
+            "y_min": 660.0,
+            "x_max": 783.0,
+            "y_max": 924.0,
+            "class_id": "player",
+            "confidence": 0.789322018623352
+        },
+        {
+            "frame_id": 243,
+            "x_min": 914.0,
+            "y_min": 155.0,
+            "x_max": 981.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.6922407746315002
+        },
+        {
+            "frame_id": 243,
+            "x_min": 676.0,
+            "y_min": 543.0,
+            "x_max": 701.0,
+            "y_max": 571.0,
+            "class_id": "ball",
+            "confidence": 0.6627052426338196
+        },
+        {
+            "frame_id": 244,
+            "x_min": 578.0,
+            "y_min": 646.0,
+            "x_max": 780.0,
+            "y_max": 920.0,
+            "class_id": "player",
+            "confidence": 0.7587153911590576
+        },
+        {
+            "frame_id": 244,
+            "x_min": 915.0,
+            "y_min": 161.0,
+            "x_max": 983.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7034754753112793
+        },
+        {
+            "frame_id": 244,
+            "x_min": 681.0,
+            "y_min": 524.0,
+            "x_max": 709.0,
+            "y_max": 554.0,
+            "class_id": "ball",
+            "confidence": 0.5370233654975891
+        },
+        {
+            "frame_id": 245,
+            "x_min": 578.0,
+            "y_min": 633.0,
+            "x_max": 780.0,
+            "y_max": 849.0,
+            "class_id": "player",
+            "confidence": 0.7891097664833069
+        },
+        {
+            "frame_id": 245,
+            "x_min": 915.0,
+            "y_min": 164.0,
+            "x_max": 985.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7073478698730469
+        },
+        {
+            "frame_id": 245,
+            "x_min": 689.0,
+            "y_min": 510.0,
+            "x_max": 713.0,
+            "y_max": 538.0,
+            "class_id": "ball",
+            "confidence": 0.6972943544387817
+        },
+        {
+            "frame_id": 246,
+            "x_min": 576.0,
+            "y_min": 620.0,
+            "x_max": 769.0,
+            "y_max": 851.0,
+            "class_id": "player",
+            "confidence": 0.7978412508964539
+        },
+        {
+            "frame_id": 246,
+            "x_min": 695.0,
+            "y_min": 494.0,
+            "x_max": 717.0,
+            "y_max": 521.0,
+            "class_id": "ball",
+            "confidence": 0.6766639351844788
+        },
+        {
+            "frame_id": 246,
+            "x_min": 917.0,
+            "y_min": 167.0,
+            "x_max": 985.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.6635738015174866
+        },
+        {
+            "frame_id": 247,
+            "x_min": 916.0,
+            "y_min": 166.0,
+            "x_max": 985.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7232352495193481
+        },
+        {
+            "frame_id": 247,
+            "x_min": 573.0,
+            "y_min": 606.0,
+            "x_max": 765.0,
+            "y_max": 846.0,
+            "class_id": "player",
+            "confidence": 0.6922807097434998
+        },
+        {
+            "frame_id": 247,
+            "x_min": 702.0,
+            "y_min": 479.0,
+            "x_max": 723.0,
+            "y_max": 506.0,
+            "class_id": "ball",
+            "confidence": 0.6538078188896179
+        },
+        {
+            "frame_id": 248,
+            "x_min": 915.0,
+            "y_min": 163.0,
+            "x_max": 986.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7555174231529236
+        },
+        {
+            "frame_id": 248,
+            "x_min": 574.0,
+            "y_min": 598.0,
+            "x_max": 761.0,
+            "y_max": 830.0,
+            "class_id": "player",
+            "confidence": 0.6465789675712585
+        },
+        {
+            "frame_id": 248,
+            "x_min": 704.0,
+            "y_min": 473.0,
+            "x_max": 727.0,
+            "y_max": 493.0,
+            "class_id": "ball",
+            "confidence": 0.4865916967391968
+        },
+        {
+            "frame_id": 249,
+            "x_min": 915.0,
+            "y_min": 165.0,
+            "x_max": 986.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7623113989830017
+        },
+        {
+            "frame_id": 249,
+            "x_min": 712.0,
+            "y_min": 458.0,
+            "x_max": 736.0,
+            "y_max": 479.0,
+            "class_id": "ball",
+            "confidence": 0.6751158833503723
+        },
+        {
+            "frame_id": 249,
+            "x_min": 571.0,
+            "y_min": 592.0,
+            "x_max": 759.0,
+            "y_max": 841.0,
+            "class_id": "player",
+            "confidence": 0.5399121046066284
+        },
+        {
+            "frame_id": 250,
+            "x_min": 915.0,
+            "y_min": 165.0,
+            "x_max": 987.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7600217461585999
+        },
+        {
+            "frame_id": 250,
+            "x_min": 716.0,
+            "y_min": 446.0,
+            "x_max": 739.0,
+            "y_max": 467.0,
+            "class_id": "ball",
+            "confidence": 0.6594199538230896
+        },
+        {
+            "frame_id": 250,
+            "x_min": 567.0,
+            "y_min": 591.0,
+            "x_max": 753.0,
+            "y_max": 837.0,
+            "class_id": "player",
+            "confidence": 0.6584593653678894
+        },
+        {
+            "frame_id": 251,
+            "x_min": 916.0,
+            "y_min": 166.0,
+            "x_max": 987.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7613022327423096
+        },
+        {
+            "frame_id": 251,
+            "x_min": 568.0,
+            "y_min": 589.0,
+            "x_max": 748.0,
+            "y_max": 822.0,
+            "class_id": "player",
+            "confidence": 0.6477094292640686
+        },
+        {
+            "frame_id": 251,
+            "x_min": 722.0,
+            "y_min": 433.0,
+            "x_max": 743.0,
+            "y_max": 451.0,
+            "class_id": "ball",
+            "confidence": 0.6382603645324707
+        },
+        {
+            "frame_id": 252,
+            "x_min": 917.0,
+            "y_min": 167.0,
+            "x_max": 987.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7660863995552063
+        },
+        {
+            "frame_id": 252,
+            "x_min": 727.0,
+            "y_min": 421.0,
+            "x_max": 752.0,
+            "y_max": 445.0,
+            "class_id": "ball",
+            "confidence": 0.626242458820343
+        },
+        {
+            "frame_id": 252,
+            "x_min": 565.0,
+            "y_min": 589.0,
+            "x_max": 746.0,
+            "y_max": 854.0,
+            "class_id": "player",
+            "confidence": 0.5335775017738342
+        },
+        {
+            "frame_id": 253,
+            "x_min": 916.0,
+            "y_min": 167.0,
+            "x_max": 986.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7566307783126831
+        },
+        {
+            "frame_id": 253,
+            "x_min": 730.0,
+            "y_min": 410.0,
+            "x_max": 754.0,
+            "y_max": 433.0,
+            "class_id": "ball",
+            "confidence": 0.5008887052536011
+        },
+        {
+            "frame_id": 253,
+            "x_min": 564.0,
+            "y_min": 592.0,
+            "x_max": 742.0,
+            "y_max": 843.0,
+            "class_id": "player",
+            "confidence": 0.4175274968147278
+        },
+        {
+            "frame_id": 254,
+            "x_min": 916.0,
+            "y_min": 166.0,
+            "x_max": 985.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7438998222351074
+        },
+        {
+            "frame_id": 254,
+            "x_min": 735.0,
+            "y_min": 398.0,
+            "x_max": 759.0,
+            "y_max": 422.0,
+            "class_id": "ball",
+            "confidence": 0.6102282404899597
+        },
+        {
+            "frame_id": 254,
+            "x_min": 562.0,
+            "y_min": 594.0,
+            "x_max": 740.0,
+            "y_max": 844.0,
+            "class_id": "player",
+            "confidence": 0.4247182607650757
+        },
+        {
+            "frame_id": 255,
+            "x_min": 916.0,
+            "y_min": 168.0,
+            "x_max": 986.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7155815958976746
+        },
+        {
+            "frame_id": 255,
+            "x_min": 738.0,
+            "y_min": 393.0,
+            "x_max": 761.0,
+            "y_max": 410.0,
+            "class_id": "ball",
+            "confidence": 0.6396588683128357
+        },
+        {
+            "frame_id": 255,
+            "x_min": 558.0,
+            "y_min": 603.0,
+            "x_max": 740.0,
+            "y_max": 888.0,
+            "class_id": "player",
+            "confidence": 0.4907752275466919
+        },
+        {
+            "frame_id": 256,
+            "x_min": 916.0,
+            "y_min": 168.0,
+            "x_max": 986.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7219615578651428
+        },
+        {
+            "frame_id": 256,
+            "x_min": 742.0,
+            "y_min": 384.0,
+            "x_max": 765.0,
+            "y_max": 405.0,
+            "class_id": "ball",
+            "confidence": 0.5075294971466064
+        },
+        {
+            "frame_id": 256,
+            "x_min": 558.0,
+            "y_min": 607.0,
+            "x_max": 739.0,
+            "y_max": 890.0,
+            "class_id": "player",
+            "confidence": 0.4758797883987427
+        },
+        {
+            "frame_id": 257,
+            "x_min": 914.0,
+            "y_min": 167.0,
+            "x_max": 979.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.6863884925842285
+        },
+        {
+            "frame_id": 257,
+            "x_min": 749.0,
+            "y_min": 376.0,
+            "x_max": 768.0,
+            "y_max": 392.0,
+            "class_id": "ball",
+            "confidence": 0.6188285946846008
+        },
+        {
+            "frame_id": 257,
+            "x_min": 552.0,
+            "y_min": 670.0,
+            "x_max": 733.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.4172111749649048
+        },
+        {
+            "frame_id": 258,
+            "x_min": 913.0,
+            "y_min": 163.0,
+            "x_max": 978.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.6932398080825806
+        },
+        {
+            "frame_id": 258,
+            "x_min": 752.0,
+            "y_min": 369.0,
+            "x_max": 770.0,
+            "y_max": 384.0,
+            "class_id": "ball",
+            "confidence": 0.6452795267105103
+        },
+        {
+            "frame_id": 258,
+            "x_min": 556.0,
+            "y_min": 626.0,
+            "x_max": 740.0,
+            "y_max": 920.0,
+            "class_id": "player",
+            "confidence": 0.42733627557754517
+        },
+        {
+            "frame_id": 259,
+            "x_min": 912.0,
+            "y_min": 164.0,
+            "x_max": 973.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7042079567909241
+        },
+        {
+            "frame_id": 259,
+            "x_min": 556.0,
+            "y_min": 632.0,
+            "x_max": 739.0,
+            "y_max": 918.0,
+            "class_id": "player",
+            "confidence": 0.5848087072372437
+        },
+        {
+            "frame_id": 259,
+            "x_min": 754.0,
+            "y_min": 358.0,
+            "x_max": 773.0,
+            "y_max": 378.0,
+            "class_id": "ball",
+            "confidence": 0.514307975769043
+        },
+        {
+            "frame_id": 260,
+            "x_min": 910.0,
+            "y_min": 161.0,
+            "x_max": 967.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.6974692940711975
+        },
+        {
+            "frame_id": 260,
+            "x_min": 555.0,
+            "y_min": 637.0,
+            "x_max": 738.0,
+            "y_max": 919.0,
+            "class_id": "player",
+            "confidence": 0.5935347080230713
+        },
+        {
+            "frame_id": 261,
+            "x_min": 909.0,
+            "y_min": 162.0,
+            "x_max": 964.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7221871614456177
+        },
+        {
+            "frame_id": 261,
+            "x_min": 553.0,
+            "y_min": 654.0,
+            "x_max": 739.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.6453348994255066
+        },
+        {
+            "frame_id": 261,
+            "x_min": 759.0,
+            "y_min": 348.0,
+            "x_max": 782.0,
+            "y_max": 363.0,
+            "class_id": "ball",
+            "confidence": 0.42981719970703125
+        },
+        {
+            "frame_id": 262,
+            "x_min": 554.0,
+            "y_min": 660.0,
+            "x_max": 738.0,
+            "y_max": 922.0,
+            "class_id": "player",
+            "confidence": 0.7801202535629272
+        },
+        {
+            "frame_id": 262,
+            "x_min": 909.0,
+            "y_min": 163.0,
+            "x_max": 962.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7217646837234497
+        },
+        {
+            "frame_id": 262,
+            "x_min": 763.0,
+            "y_min": 342.0,
+            "x_max": 784.0,
+            "y_max": 355.0,
+            "class_id": "ball",
+            "confidence": 0.530386209487915
+        },
+        {
+            "frame_id": 263,
+            "x_min": 554.0,
+            "y_min": 668.0,
+            "x_max": 738.0,
+            "y_max": 922.0,
+            "class_id": "player",
+            "confidence": 0.789907693862915
+        },
+        {
+            "frame_id": 263,
+            "x_min": 908.0,
+            "y_min": 163.0,
+            "x_max": 959.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7058916091918945
+        },
+        {
+            "frame_id": 263,
+            "x_min": 765.0,
+            "y_min": 336.0,
+            "x_max": 785.0,
+            "y_max": 349.0,
+            "class_id": "ball",
+            "confidence": 0.5697535276412964
+        },
+        {
+            "frame_id": 264,
+            "x_min": 555.0,
+            "y_min": 677.0,
+            "x_max": 737.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8314592242240906
+        },
+        {
+            "frame_id": 264,
+            "x_min": 907.0,
+            "y_min": 165.0,
+            "x_max": 956.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7080678939819336
+        },
+        {
+            "frame_id": 264,
+            "x_min": 768.0,
+            "y_min": 329.0,
+            "x_max": 788.0,
+            "y_max": 343.0,
+            "class_id": "ball",
+            "confidence": 0.43957310914993286
+        },
+        {
+            "frame_id": 265,
+            "x_min": 557.0,
+            "y_min": 687.0,
+            "x_max": 738.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8547332882881165
+        },
+        {
+            "frame_id": 265,
+            "x_min": 905.0,
+            "y_min": 164.0,
+            "x_max": 956.0,
+            "y_max": 277.0,
+            "class_id": "player",
+            "confidence": 0.6983329057693481
+        },
+        {
+            "frame_id": 265,
+            "x_min": 772.0,
+            "y_min": 325.0,
+            "x_max": 790.0,
+            "y_max": 337.0,
+            "class_id": "ball",
+            "confidence": 0.5776095986366272
+        },
+        {
+            "frame_id": 266,
+            "x_min": 557.0,
+            "y_min": 691.0,
+            "x_max": 739.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8643760681152344
+        },
+        {
+            "frame_id": 266,
+            "x_min": 901.0,
+            "y_min": 163.0,
+            "x_max": 954.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7128783464431763
+        },
+        {
+            "frame_id": 266,
+            "x_min": 773.0,
+            "y_min": 321.0,
+            "x_max": 791.0,
+            "y_max": 334.0,
+            "class_id": "ball",
+            "confidence": 0.5781832933425903
+        },
+        {
+            "frame_id": 267,
+            "x_min": 557.0,
+            "y_min": 690.0,
+            "x_max": 741.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8540282845497131
+        },
+        {
+            "frame_id": 267,
+            "x_min": 897.0,
+            "y_min": 163.0,
+            "x_max": 952.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7158127427101135
+        },
+        {
+            "frame_id": 267,
+            "x_min": 776.0,
+            "y_min": 316.0,
+            "x_max": 794.0,
+            "y_max": 329.0,
+            "class_id": "ball",
+            "confidence": 0.5051166415214539
+        },
+        {
+            "frame_id": 268,
+            "x_min": 558.0,
+            "y_min": 689.0,
+            "x_max": 744.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8508405685424805
+        },
+        {
+            "frame_id": 268,
+            "x_min": 894.0,
+            "y_min": 163.0,
+            "x_max": 952.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7007244825363159
+        },
+        {
+            "frame_id": 268,
+            "x_min": 777.0,
+            "y_min": 312.0,
+            "x_max": 795.0,
+            "y_max": 325.0,
+            "class_id": "ball",
+            "confidence": 0.46672362089157104
+        },
+        {
+            "frame_id": 269,
+            "x_min": 560.0,
+            "y_min": 688.0,
+            "x_max": 746.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.840950071811676
+        },
+        {
+            "frame_id": 269,
+            "x_min": 891.0,
+            "y_min": 165.0,
+            "x_max": 948.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7155750393867493
+        },
+        {
+            "frame_id": 269,
+            "x_min": 780.0,
+            "y_min": 307.0,
+            "x_max": 799.0,
+            "y_max": 321.0,
+            "class_id": "ball",
+            "confidence": 0.5857722759246826
+        },
+        {
+            "frame_id": 270,
+            "x_min": 560.0,
+            "y_min": 687.0,
+            "x_max": 751.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8339253664016724
+        },
+        {
+            "frame_id": 270,
+            "x_min": 887.0,
+            "y_min": 165.0,
+            "x_max": 947.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7223455309867859
+        },
+        {
+            "frame_id": 270,
+            "x_min": 782.0,
+            "y_min": 305.0,
+            "x_max": 802.0,
+            "y_max": 318.0,
+            "class_id": "ball",
+            "confidence": 0.6256647109985352
+        },
+        {
+            "frame_id": 271,
+            "x_min": 561.0,
+            "y_min": 687.0,
+            "x_max": 755.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8723925352096558
+        },
+        {
+            "frame_id": 271,
+            "x_min": 884.0,
+            "y_min": 167.0,
+            "x_max": 947.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7546066045761108
+        },
+        {
+            "frame_id": 271,
+            "x_min": 784.0,
+            "y_min": 301.0,
+            "x_max": 803.0,
+            "y_max": 313.0,
+            "class_id": "ball",
+            "confidence": 0.599957287311554
+        },
+        {
+            "frame_id": 272,
+            "x_min": 564.0,
+            "y_min": 686.0,
+            "x_max": 758.0,
+            "y_max": 920.0,
+            "class_id": "player",
+            "confidence": 0.8850294351577759
+        },
+        {
+            "frame_id": 272,
+            "x_min": 882.0,
+            "y_min": 168.0,
+            "x_max": 947.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7685002684593201
+        },
+        {
+            "frame_id": 273,
+            "x_min": 565.0,
+            "y_min": 685.0,
+            "x_max": 760.0,
+            "y_max": 920.0,
+            "class_id": "player",
+            "confidence": 0.8806313276290894
+        },
+        {
+            "frame_id": 273,
+            "x_min": 883.0,
+            "y_min": 169.0,
+            "x_max": 944.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.760968804359436
+        },
+        {
+            "frame_id": 274,
+            "x_min": 580.0,
+            "y_min": 684.0,
+            "x_max": 766.0,
+            "y_max": 917.0,
+            "class_id": "player",
+            "confidence": 0.8703544735908508
+        },
+        {
+            "frame_id": 274,
+            "x_min": 881.0,
+            "y_min": 167.0,
+            "x_max": 944.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7632050514221191
+        },
+        {
+            "frame_id": 274,
+            "x_min": 789.0,
+            "y_min": 294.0,
+            "x_max": 807.0,
+            "y_max": 306.0,
+            "class_id": "ball",
+            "confidence": 0.495242714881897
+        },
+        {
+            "frame_id": 275,
+            "x_min": 585.0,
+            "y_min": 683.0,
+            "x_max": 775.0,
+            "y_max": 917.0,
+            "class_id": "player",
+            "confidence": 0.868141770362854
+        },
+        {
+            "frame_id": 275,
+            "x_min": 879.0,
+            "y_min": 167.0,
+            "x_max": 943.0,
+            "y_max": 279.0,
+            "class_id": "player",
+            "confidence": 0.768688976764679
+        },
+        {
+            "frame_id": 276,
+            "x_min": 594.0,
+            "y_min": 683.0,
+            "x_max": 777.0,
+            "y_max": 918.0,
+            "class_id": "player",
+            "confidence": 0.8623934388160706
+        },
+        {
+            "frame_id": 276,
+            "x_min": 877.0,
+            "y_min": 165.0,
+            "x_max": 941.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7650839686393738
+        },
+        {
+            "frame_id": 277,
+            "x_min": 608.0,
+            "y_min": 682.0,
+            "x_max": 780.0,
+            "y_max": 921.0,
+            "class_id": "player",
+            "confidence": 0.8534314632415771
+        },
+        {
+            "frame_id": 277,
+            "x_min": 875.0,
+            "y_min": 166.0,
+            "x_max": 940.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.7666142582893372
+        },
+        {
+            "frame_id": 277,
+            "x_min": 793.0,
+            "y_min": 288.0,
+            "x_max": 811.0,
+            "y_max": 300.0,
+            "class_id": "ball",
+            "confidence": 0.5606666207313538
+        },
+        {
+            "frame_id": 278,
+            "x_min": 627.0,
+            "y_min": 681.0,
+            "x_max": 784.0,
+            "y_max": 920.0,
+            "class_id": "player",
+            "confidence": 0.8612036108970642
+        },
+        {
+            "frame_id": 278,
+            "x_min": 873.0,
+            "y_min": 165.0,
+            "x_max": 938.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.76728755235672
+        },
+        {
+            "frame_id": 278,
+            "x_min": 795.0,
+            "y_min": 288.0,
+            "x_max": 812.0,
+            "y_max": 298.0,
+            "class_id": "ball",
+            "confidence": 0.5653622150421143
+        },
+        {
+            "frame_id": 279,
+            "x_min": 638.0,
+            "y_min": 680.0,
+            "x_max": 786.0,
+            "y_max": 920.0,
+            "class_id": "player",
+            "confidence": 0.8511443734169006
+        },
+        {
+            "frame_id": 279,
+            "x_min": 871.0,
+            "y_min": 165.0,
+            "x_max": 936.0,
+            "y_max": 279.0,
+            "class_id": "player",
+            "confidence": 0.7737323641777039
+        },
+        {
+            "frame_id": 279,
+            "x_min": 795.0,
+            "y_min": 286.0,
+            "x_max": 813.0,
+            "y_max": 298.0,
+            "class_id": "ball",
+            "confidence": 0.6159043908119202
+        },
+        {
+            "frame_id": 280,
+            "x_min": 649.0,
+            "y_min": 680.0,
+            "x_max": 789.0,
+            "y_max": 923.0,
+            "class_id": "player",
+            "confidence": 0.8376326560974121
+        },
+        {
+            "frame_id": 280,
+            "x_min": 868.0,
+            "y_min": 164.0,
+            "x_max": 934.0,
+            "y_max": 279.0,
+            "class_id": "player",
+            "confidence": 0.7390788793563843
+        },
+        {
+            "frame_id": 280,
+            "x_min": 796.0,
+            "y_min": 286.0,
+            "x_max": 814.0,
+            "y_max": 297.0,
+            "class_id": "ball",
+            "confidence": 0.5999063849449158
+        },
+        {
+            "frame_id": 281,
+            "x_min": 657.0,
+            "y_min": 679.0,
+            "x_max": 790.0,
+            "y_max": 925.0,
+            "class_id": "player",
+            "confidence": 0.8272411823272705
+        },
+        {
+            "frame_id": 281,
+            "x_min": 866.0,
+            "y_min": 161.0,
+            "x_max": 932.0,
+            "y_max": 278.0,
+            "class_id": "player",
+            "confidence": 0.696144163608551
+        },
+        {
+            "frame_id": 281,
+            "x_min": 798.0,
+            "y_min": 285.0,
+            "x_max": 816.0,
+            "y_max": 297.0,
+            "class_id": "ball",
+            "confidence": 0.5578799247741699
+        },
+        {
+            "frame_id": 282,
+            "x_min": 664.0,
+            "y_min": 677.0,
+            "x_max": 791.0,
+            "y_max": 922.0,
+            "class_id": "player",
+            "confidence": 0.7875940203666687
+        },
+        {
+            "frame_id": 282,
+            "x_min": 862.0,
+            "y_min": 161.0,
+            "x_max": 931.0,
+            "y_max": 277.0,
+            "class_id": "player",
+            "confidence": 0.6946484446525574
+        },
+        {
+            "frame_id": 282,
+            "x_min": 799.0,
+            "y_min": 285.0,
+            "x_max": 817.0,
+            "y_max": 297.0,
+            "class_id": "ball",
+            "confidence": 0.5256801843643188
+        },
+        {
+            "frame_id": 283,
+            "x_min": 670.0,
+            "y_min": 677.0,
+            "x_max": 792.0,
+            "y_max": 924.0,
+            "class_id": "player",
+            "confidence": 0.7998904585838318
+        },
+        {
+            "frame_id": 283,
+            "x_min": 862.0,
+            "y_min": 159.0,
+            "x_max": 928.0,
+            "y_max": 276.0,
+            "class_id": "player",
+            "confidence": 0.7534288763999939
+        },
+        {
+            "frame_id": 283,
+            "x_min": 800.0,
+            "y_min": 284.0,
+            "x_max": 819.0,
+            "y_max": 297.0,
+            "class_id": "ball",
+            "confidence": 0.44971299171447754
+        },
+        {
+            "frame_id": 284,
+            "x_min": 672.0,
+            "y_min": 678.0,
+            "x_max": 798.0,
+            "y_max": 934.0,
+            "class_id": "player",
+            "confidence": 0.8555557727813721
+        },
+        {
+            "frame_id": 284,
+            "x_min": 860.0,
+            "y_min": 156.0,
+            "x_max": 925.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.6211495995521545
+        },
+        {
+            "frame_id": 285,
+            "x_min": 675.0,
+            "y_min": 678.0,
+            "x_max": 800.0,
+            "y_max": 936.0,
+            "class_id": "player",
+            "confidence": 0.8492238521575928
+        },
+        {
+            "frame_id": 286,
+            "x_min": 678.0,
+            "y_min": 679.0,
+            "x_max": 802.0,
+            "y_max": 939.0,
+            "class_id": "player",
+            "confidence": 0.8272686004638672
+        },
+        {
+            "frame_id": 286,
+            "x_min": 862.0,
+            "y_min": 161.0,
+            "x_max": 924.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.4061775803565979
+        },
+        {
+            "frame_id": 287,
+            "x_min": 683.0,
+            "y_min": 680.0,
+            "x_max": 804.0,
+            "y_max": 938.0,
+            "class_id": "player",
+            "confidence": 0.8097976446151733
+        },
+        {
+            "frame_id": 287,
+            "x_min": 858.0,
+            "y_min": 163.0,
+            "x_max": 923.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.59152752161026
+        },
+        {
+            "frame_id": 288,
+            "x_min": 687.0,
+            "y_min": 681.0,
+            "x_max": 807.0,
+            "y_max": 938.0,
+            "class_id": "player",
+            "confidence": 0.801265299320221
+        },
+        {
+            "frame_id": 288,
+            "x_min": 858.0,
+            "y_min": 163.0,
+            "x_max": 921.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7374102473258972
+        },
+        {
+            "frame_id": 289,
+            "x_min": 689.0,
+            "y_min": 684.0,
+            "x_max": 810.0,
+            "y_max": 941.0,
+            "class_id": "player",
+            "confidence": 0.7946929335594177
+        },
+        {
+            "frame_id": 289,
+            "x_min": 856.0,
+            "y_min": 162.0,
+            "x_max": 922.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7607510089874268
+        },
+        {
+            "frame_id": 290,
+            "x_min": 856.0,
+            "y_min": 162.0,
+            "x_max": 923.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7874787449836731
+        },
+        {
+            "frame_id": 290,
+            "x_min": 696.0,
+            "y_min": 685.0,
+            "x_max": 812.0,
+            "y_max": 926.0,
+            "class_id": "player",
+            "confidence": 0.737975001335144
+        },
+        {
+            "frame_id": 291,
+            "x_min": 856.0,
+            "y_min": 163.0,
+            "x_max": 921.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.776887059211731
+        },
+        {
+            "frame_id": 291,
+            "x_min": 700.0,
+            "y_min": 687.0,
+            "x_max": 814.0,
+            "y_max": 928.0,
+            "class_id": "player",
+            "confidence": 0.6013135313987732
+        },
+        {
+            "frame_id": 292,
+            "x_min": 854.0,
+            "y_min": 163.0,
+            "x_max": 921.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.7696366310119629
+        },
+        {
+            "frame_id": 292,
+            "x_min": 706.0,
+            "y_min": 688.0,
+            "x_max": 822.0,
+            "y_max": 927.0,
+            "class_id": "player",
+            "confidence": 0.7647490501403809
+        },
+        {
+            "frame_id": 293,
+            "x_min": 710.0,
+            "y_min": 690.0,
+            "x_max": 825.0,
+            "y_max": 948.0,
+            "class_id": "player",
+            "confidence": 0.7737587690353394
+        },
+        {
+            "frame_id": 293,
+            "x_min": 851.0,
+            "y_min": 163.0,
+            "x_max": 919.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.7511982321739197
+        },
+        {
+            "frame_id": 294,
+            "x_min": 850.0,
+            "y_min": 163.0,
+            "x_max": 918.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.752395510673523
+        },
+        {
+            "frame_id": 294,
+            "x_min": 712.0,
+            "y_min": 691.0,
+            "x_max": 829.0,
+            "y_max": 949.0,
+            "class_id": "player",
+            "confidence": 0.7040563225746155
+        },
+        {
+            "frame_id": 295,
+            "x_min": 717.0,
+            "y_min": 694.0,
+            "x_max": 835.0,
+            "y_max": 950.0,
+            "class_id": "player",
+            "confidence": 0.7886661887168884
+        },
+        {
+            "frame_id": 295,
+            "x_min": 848.0,
+            "y_min": 164.0,
+            "x_max": 917.0,
+            "y_max": 273.0,
+            "class_id": "player",
+            "confidence": 0.757571280002594
+        },
+        {
+            "frame_id": 296,
+            "x_min": 720.0,
+            "y_min": 694.0,
+            "x_max": 839.0,
+            "y_max": 950.0,
+            "class_id": "player",
+            "confidence": 0.8452675938606262
+        },
+        {
+            "frame_id": 296,
+            "x_min": 847.0,
+            "y_min": 166.0,
+            "x_max": 914.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.7456480860710144
+        },
+        {
+            "frame_id": 297,
+            "x_min": 724.0,
+            "y_min": 694.0,
+            "x_max": 846.0,
+            "y_max": 951.0,
+            "class_id": "player",
+            "confidence": 0.8596915602684021
+        },
+        {
+            "frame_id": 297,
+            "x_min": 848.0,
+            "y_min": 167.0,
+            "x_max": 912.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7249564528465271
+        },
+        {
+            "frame_id": 298,
+            "x_min": 726.0,
+            "y_min": 693.0,
+            "x_max": 856.0,
+            "y_max": 950.0,
+            "class_id": "player",
+            "confidence": 0.851081132888794
+        },
+        {
+            "frame_id": 298,
+            "x_min": 842.0,
+            "y_min": 168.0,
+            "x_max": 911.0,
+            "y_max": 272.0,
+            "class_id": "player",
+            "confidence": 0.740280032157898
+        },
+        {
+            "frame_id": 299,
+            "x_min": 729.0,
+            "y_min": 692.0,
+            "x_max": 875.0,
+            "y_max": 951.0,
+            "class_id": "player",
+            "confidence": 0.8561069965362549
+        },
+        {
+            "frame_id": 299,
+            "x_min": 841.0,
+            "y_min": 169.0,
+            "x_max": 909.0,
+            "y_max": 274.0,
+            "class_id": "player",
+            "confidence": 0.7368039488792419
+        },
+        {
+            "frame_id": 300,
+            "x_min": 730.0,
+            "y_min": 691.0,
+            "x_max": 886.0,
+            "y_max": 951.0,
+            "class_id": "player",
+            "confidence": 0.8250353336334229
+        },
+        {
+            "frame_id": 300,
+            "x_min": 843.0,
+            "y_min": 168.0,
+            "x_max": 907.0,
+            "y_max": 275.0,
+            "class_id": "player",
+            "confidence": 0.7295982241630554
+        }
+    ]
+}
