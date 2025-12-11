@@ -687,7 +687,7 @@ def court_keypoints (image_path, json_filename, output_filename, model_id):
 
 """# **Roboflow API's**"""
 
-CLIENT = InferenceHTTPClient(api_url="https://serverless.roboflow.com",api_key="6LIHJqhEOwzsiZdxnyOU")
+CLIENT = InferenceHTTPClient(api_url="https://serverless.roboflow.com",api_key="API_KEY")
 
 """# **Player and Ball Identification**
 
